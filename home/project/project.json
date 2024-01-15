@@ -92,28 +92,6 @@
                     ]
                 }
             ]
-        }, {
-            "projectTitle":"서피스 기반의 뇌장애 진단2",
-            "projectImagePath":"home/project/project4.png",
-            "projectDescription":"desc2",
-            "projectDetail": [
-                {
-                    "title": "t1",
-                    "detail": "d1"
-                }, {
-                    "title": "t2",
-                    "detail": "d2",
-                    "Link": [
-                        {
-                            "text":"l1",
-                            "href":""
-                        },{
-                            "text":"l2",
-                            "href":""
-                        }
-                    ]
-                }
-            ]
         }
     ]
 }
