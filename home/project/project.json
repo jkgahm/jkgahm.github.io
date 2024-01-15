@@ -1,0 +1,119 @@
+{
+    "description":"In the three-dimensional environment we live in, there exist numerous natural (such as humans and animals) as well as artificial (such as cars and computers) structures. The visual representations of these structures can be acquired as two-dimensional or three-dimensional digital data through commonly used devices like mobile phones, cameras, or specialized scanning equipment. Technologies for separating these structures from digital images and analyzing/calculating the extracted structural data have been actively developed, particularly in recent years, with a focus on techniques utilizing machine learning, including deep learning, for classification and recognition of structures. Our research lab is dedicated to representing diverse and complex structures through surface modeling and developing algorithms for computing matching between structures of the same category but with different shapes. These shape modeling and matching techniques are utilized as core technologies in various industries relying on image-based applications, including animation, entertainment, security surveillance, robotics, and autonomous driving. In the field of healthcare, in particular, three-dimensional images obtained through techniques like magnetic resonance imaging (MRI) and computed tomography (CT) are used to model/match internal structures (such as the cerebral cortex and hippocampus in the brain) and develop systems for tracking structural changes caused by diseases and diagnosing them.",
+    "project": [
+        {
+            "projectTitle":"MRI 영상개선을 위한 텐서 기반 학습",
+            "projectImagePath":"home/project/project1.png",
+            "projectDescription":"뇌의 자기공명영상(MRI) 데이터의 표면 기반 분석은 임상 및 연구 응용 분야에서 중요한 역할을 합니다. 정확한 3차원(3D) 표면 재구성을 달성하려면 고해상도(HR) MR 영상 획득이 필요합니다. 그러나 HR 영상 획득은 긴 획득 시간과 낮은 공간 적용 범위를 초래하는 하드웨어 제한으로 인해 방해를 받습니다. 단일 영상 초해상도(SISR)는 저해상도(LR) 영상을 HR 영상으로 변환하여 이러한 문제를 완화할 수 있습니다. 그러나 2D SISR 방법과 달리 기존의 3D 방법은 많은 계산 비용이 발생하고 풍부한 데이터가 필요합니다.",
+            "projectDetail": [
+                {
+                    "title": "3D Brain MRI Super-Resolution with Image Gradient Tensor Feature Clustering",
+                    "detail": "Seongsu Park, Jin Kyu Gahm, The Organization for Human Brain Mapping (OHBM), 2021"
+                }, {
+                    "title": "Super-Resolution of 3D Brain MRI with Filter Learning Using Tensor Feature Clustering",
+                    "detail": "Seongsu Park, and Jin Kyu Gahm, IEEE Access, Vol. 10, 2022",
+                    "Link": [
+                        {
+                            "text":"Link",
+                            "href":""
+                        },{
+                            "text":"Preprint",
+                            "href":""
+                        }
+                    ]
+                }
+
+            ]
+        }, {
+            "projectTitle":"라디오믹스 기반 비정형 파킨슨병 진단",
+            "projectImagePath":"home/project/project2.png",
+            "projectDescription":"desc",
+            "projectDetail": [
+                {
+                    "title": "t1",
+                    "detail": "d1"
+                }, {
+                    "title": "t2",
+                    "detail": "d2",
+                    "Link": [
+                        {
+                            "text":"l1",
+                            "href":""
+                        },{
+                            "text":"l2",
+                            "href":""
+                        }
+                    ]
+                }
+
+            ]
+        }, {
+            "projectTitle":"치매진단을 위한 서피스정합 가속화",
+            "projectImagePath":"home/project/project3.png",
+            "projectDescription":"desc",
+            "projectDetail": [
+                {
+                    "title": "t1",
+                    "detail": "d1"
+                }, {
+                    "title": "t2",
+                    "detail": "d2",
+                    "Link": [
+                        {
+                            "text":"l1",
+                            "href":""
+                        },{
+                            "text":"l2",
+                            "href":""
+                        }
+                    ]
+                }
+
+            ]
+        }, {
+            "projectTitle":"서피스 기반의 뇌장애 진단",
+            "projectImagePath":"home/project/project4.png",
+            "projectDescription":"desc",
+            "projectDetail": [
+                {
+                    "title": "t1",
+                    "detail": "d1"
+                }, {
+                    "title": "t2",
+                    "detail": "d2",
+                    "Link": [
+                        {
+                            "text":"l1",
+                            "href":""
+                        },{
+                            "text":"l2",
+                            "href":""
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "projectTitle":"서피스 기반의 뇌장애 진단2",
+            "projectImagePath":"home/project/project4.png",
+            "projectDescription":"desc2",
+            "projectDetail": [
+                {
+                    "title": "t1",
+                    "detail": "d1"
+                }, {
+                    "title": "t2",
+                    "detail": "d2",
+                    "Link": [
+                        {
+                            "text":"l1",
+                            "href":""
+                        },{
+                            "text":"l2",
+                            "href":""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

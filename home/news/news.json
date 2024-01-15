@@ -1,0 +1,100 @@
+{
+
+    
+    "featuredNews": {
+        "imagePath":"home/news/news_featured.jpg",
+        "title":"We Are Looking For Talented Students!",
+        "topText":"ttICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요.",
+        "botText":"ttICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요.",
+        "questionList":[
+            {
+                "mark":"",
+                "question":"q1",
+                "answer":"a1"
+            }, {
+                "mark":"",
+                "question":"q2",
+                "answer":"a2"
+            }, {
+                "mark":"",
+                "question":"q3",
+                "answer":"a3"
+            }
+        ]
+    },
+
+    "news": [
+        {
+            "imagePath":"home/news/news1.jpg",
+            "title":"강재민 학생, 2023 학생주도 연구프로젝트 성과발표회 최우수상",
+            "text":"지난 2023년 12월 8일 AI대학원은 학생주도 연구프로젝트 성과발표회를 대학본부 3층 대회의실에서 개최했다. 35개의 연구프로젝트 중 내부 심사를 거쳐 우수 프로젝트로 선정된 AI대학원생 5명 강재민·김기범·이시열·김장현·정선근(22학번)이 구두 발표를 진행했다. 강재민 학생이 최우수상을, 김기범 학생이 우수상을, 이시열·김장현·정선근 학생이 장려상을 각각 수상했다. 학생주도 연구프로젝트는 AI대학원 비교과 프로그램 중 하나로, 학생 스스로 산업 현장의...",
+            "link":""
+        }, {
+            "imagePath":"home/news/news2.jpg",
+            "title":"영상계산 및 머신러닝(ICML) 연구실 - 2022 대한의료인공지능학회 추계 학술대회 최우수상",
+            "text":"22년 10월 13-14일 대한의료인공지능학회에서는 'KoSAIM 2022'를 코엑스 인터컨티넨탈 호텔에서 개최하였다. 본 행사에서는 의료 분야와 접목된 인공지능 사례 발표와 함께 AI 기반 솔루션 및 의료 인공지능이 나아갈 방향 등에 대한 관련 병원, 대학, 연구소, 기업, 정부에서 참가하였다. 이틀에 걸친 학회는 구연발표, 포스터발표 및 포스터 전시 세션이 사전에 제출한 연구 내용을 바탕으로 총 45개의 연구가 채택 되었으며, 포스터 발표 세션에서 영상계산 및 머신러닝 연구실 최원준(21학번, 지도교수 감진규 교수) 석사과정 학생이 최우수상(1등)",
+            "link":""
+        }
+
+    ],
+
+    "lineNews":[
+        {
+            "date":"2024.01.01",
+            "title":"🎉CONGRATURATION!",
+            "text":"Hongbin continuing his study as a M. S. student. Congrats on his graduation!"
+        }, {
+            "date":"2023.12.01",
+            "title":"🤗 WELCOME!",
+            "text":"Dat joined ICML lab as a M.S. student. Welcome!"
+        }, {
+            "date":"2023.11.01",
+            "title":"🤗 WELCOME!",
+            "text":"Ilhae joined our lab as an undergraduate student. welcome!"
+        }, {
+            "date":"2023.10.01",
+            "title":"ℹ️ Example!",
+            "text":"This is Line-news example"
+        }, {
+            "date":"2023.09.01",
+            "title":"ℹ️ Example!",
+            "text":"You can add Line news here"
+        }, {
+            "date":"2023.08.01",
+            "title":"ℹ️ Example!",
+            "text":"add the content to home/news/news.json"
+        }, {
+            "date":"2023.08.01",
+            "title":"ℹ️ Example!",
+            "text":"add the content to home/news/news.json"
+        }, {
+            "date":"2023.08.01",
+            "title":"ℹ️ Example!",
+            "text":"add the content to home/news/news.json"
+        }, {
+            "date":"2023.08.01",
+            "title":"ℹ️ Example!",
+            "text":"add the content to home/news/news.json"
+        }, {
+            "date":"2023.08.01",
+            "title":"ℹ️ Example!",
+            "text":"add the content to home/news/news.json"
+        }, {
+            "date":"2023.08.01",
+            "title":"ℹ️ Example!",
+            "text":"add the content to home/news/news.json"
+        }, {
+            "date":"2023.08.01",
+            "title":"ℹ️ Example!",
+            "text":"add the content to home/news/news.json"
+        }, {
+            "date":"2023.08.01",
+            "title":"ℹ️ Example!",
+            "text":"add the content to home/news/news.json"
+        }, {
+            "date":"2023.08.01",
+            "title":"ℹ️ Example!",
+            "text":"add the content to home/news/news.json"
+        }
+    ]
+}

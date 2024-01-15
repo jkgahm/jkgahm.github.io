@@ -1,0 +1,21 @@
+{
+    "imagePath":"people/professor/Jin_Kyu_Gahm.jpg",
+    "name":"Jin Kyu Gahm",
+    "contents":[
+        {
+            "title":"Associate Professor",
+            "text":[
+                {"line":"School of Computer Science and Engineering, Pusan National University (2019.09~Present)"},
+                {"line":"Email: gahmj@pusan.ac.kr"},
+                {"line":"Office: 313-415"},
+                {"line":"Tel: +82 51-510-2292"}
+            ]
+        }, {
+            "title":"Education",
+            "text":[
+                {"line":"Ph.D., Computer Science at University of California, Los Angeles (UCLA)"},
+                {"line":"B.S., Computer Engineering at Seoul National University"}
+            ]
+        }   
+    ]
+}

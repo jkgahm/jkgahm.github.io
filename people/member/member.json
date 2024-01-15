@@ -1,0 +1,88 @@
+{
+    "member": 
+    [
+        {
+            "name":"Jaemin Kang",
+            "imagePath":"people/member/Jaemin_Kang.jpg",
+            "position":"M.S.Student",
+            "email":"jaemin7666@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"철강표면결함영상 분석"
+                }, {
+                    "area":"복부의료영상 분석"
+                }
+            ]
+        }, {
+            "name":"Duong Anh Quan",
+            "imagePath":"people/member/Duong_Anh_Quan.jpg",
+            "position":"M.S.Student",
+            "email":"quanda@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"뇌 표면 영상 처리"
+                }
+            ]
+        }, {
+            "name":"Minsu Kim",
+            "imagePath":"people/member/Minsu_Kim.jpg",
+            "position":"M.S.Student",
+            "email":"kmskie69@naver.com",
+            "research":[
+                {
+                    "area":"심장영상 분석"
+                }
+            ]
+        }, {
+            "name":"Heechang Lee",
+            "imagePath":"people/member/Heechang_Lee.jpg",
+            "position":"M.S.Student",
+            "email":"eeheechang@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"복부영상 분석"
+                }
+            ]
+        }, {
+            "name":"Hongbin Jeong",
+            "imagePath":"people/member/Hongbin_jeong.jpg",
+            "position":"M.S.Student",
+            "email":"dkvrnwjd@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"심장영상 분석"
+                }
+            ]
+        }, {
+            "name":"Heechang Lee",
+            "imagePath":"people/member/Sy_Dat_Tran.jpg",
+            "position":"M.S.Student",
+            "email":"sydat2000@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"의료영상분석"
+                }
+            ]
+        }, {
+            "name":"Heechang Lee",
+            "imagePath":"people/member/Ilhae_Yu.jpg",
+            "position":"Undergraduate Student",
+            "email":"yih0826@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"의료영상분석 및 컴퓨터비전"
+                }
+            ]
+        }, {
+            "name":"Heechang Lee",
+            "imagePath":"people/member/Wonjune_Choi.jpg",
+            "position":"Research Staff",
+            "email":"asd147asd147@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"뇌영상 분석"
+                }
+            ]
+        }
+    ]
+}

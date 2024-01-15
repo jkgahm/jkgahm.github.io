@@ -1,0 +1,76 @@
+{
+    "alumni": 
+    [
+        {
+            "name":"Seongsu Park",
+            "imagePath":"people/alumni/Seongsu_Park.png",
+            "position":"M.S. Graduate '22",
+            "email":"tjdtnsu@naver.com",
+            "research":[
+                {
+                    "area":"의료영상 초해상화"
+                }
+            ],
+            "employment":"VoyagerX"
+        }, {
+            "name":"Yunsoo Kim",
+            "imagePath":"people/alumni/Yunsoo_Kim.jpg",
+            "position":"M.S. Graduate '22",
+            "email":"kim8yunsu16@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"의료영상 특징 분석"
+                }
+            ],
+            "employment":"Samsung Electronics"
+        },{
+            "name":"Donghyong Lee",
+            "imagePath":"people/alumni/Donghyong_Lee.jpg",
+            "position":"M.S. Graduate '22",
+            "email":"dlehdgud62@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"OCTA 영상 분석"
+                }
+            ],
+            "employment":"Hyundai Robotics"
+        },{
+            "name":"Jeongwon Jo",
+            "imagePath":"people/alumni/Jeongwon_Jo.jpg",
+            "position":"M.S. Graduate '22",
+            "email":"jwjo7936@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"의료영상 정합"
+                }, {
+                    "area":"CUDA 하드웨어 가속화"
+                }
+            ],
+            "employment":"Heuron"
+        },{
+            "name":"Seungkyu Kim",
+            "imagePath":"people/alumni/Seoungkyu_Kim.jpg",
+            "position":"M.S. Student '23",
+            "email":"aszass5387@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"Multimodal (MRI, PET) 분석"
+                }
+            ],
+            "employment":"Hanwha Systems"
+        },{
+            "name":"Wonjune Choi",
+            "imagePath":"people/alumni/Wonjune_Choi.jpg",
+            "position":"M.S. Student '23",
+            "email":"asd147asd147@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"이미지 및 볼륨 기반 딥러닝 모델 개발"
+                }, {
+                    "area":"XAI 기술 개발"
+                }
+            ],
+            "employment":"PNU Hospital"
+        }
+    ]
+}
