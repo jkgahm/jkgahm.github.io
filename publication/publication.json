@@ -2,7 +2,7 @@
     "publications":[
         {
             "type":"journal",
-            "title":"GGG-RMOS: GPU-accelerated Riemannian Metric Optimization on Surfaces", 
+            "title":"G-RMOS: GPU-accelerated Riemannian Metric Optimization on Surfaces", 
             "authors":"Jeong Won Jo, Jin Kyu Gahm",
             "link":"https://linkinghub.elsevier.com/retrieve/pii/S0010482522008757",
             "pdf":"https://www.sciencedirect.com/science/article/pii/S0010482522008757/pdfft?isDTMRedir=true&amp;download=true",
