@@ -51,6 +51,16 @@
                     "area":"의료영상분석 및 컴퓨터비전"
                 }
             ]
+        }, {
+            "name":"JunHee Kim",
+            "imagePath":"people/member/JunHee_Kim.jpg",
+            "position":"Undergraduate Student",
+            "email":"jun52520@naver.com",
+            "research":[
+                {
+                    "area":"의료영상분석 및 컴퓨터비전"
+                }
+            ]
         }
     ]
 }
