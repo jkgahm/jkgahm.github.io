@@ -4,21 +4,17 @@
     "featuredNews": {
         "imagePath":"home/news/news_featured.jpg",
         "title":"We Are Looking For Talented Students!",
-        "topText":"ttICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요.",
-        "botText":"ttICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요. ICML 연구실에서 함께 해요.",
+        "topText":"ICML 연구실에서 함께 해요.",
+        "botText":"ICML 연구실에서 함께 해요.",
         "questionList":[
             {
                 "mark":"",
-                "question":"q1",
-                "answer":"a1"
+                "question":"지원 방법은 어떻게 되나요?",
+                "answer":"감진규 교수님께 이메일로 연락해주세요~"
             }, {
                 "mark":"",
-                "question":"q2",
-                "answer":"a2"
-            }, {
-                "mark":"",
-                "question":"q3",
-                "answer":"a3"
+                "question":"학부연구생 및 대학원 TO는 있나요?",
+                "answer":"자세한 사항은 감진규 교수님꼐 이메일로 문의해주세요~"
             }
         ]
     },
