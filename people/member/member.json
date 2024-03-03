@@ -2,28 +2,6 @@
     "member": 
     [
         {
-            "name":"Jaemin Kang",
-            "imagePath":"people/member/Jaemin_Kang.jpg",
-            "position":"M.S.Student",
-            "email":"jaemin7666@pusan.ac.kr",
-            "research":[
-                {
-                    "area":"철강표면결함영상 분석"
-                }, {
-                    "area":"복부의료영상 분석"
-                }
-            ]
-        }, {
-            "name":"Duong Anh Quan",
-            "imagePath":"people/member/Duong_Anh_Quan.jpg",
-            "position":"M.S.Student",
-            "email":"quanda@pusan.ac.kr",
-            "research":[
-                {
-                    "area":"뇌 표면 영상 처리"
-                }
-            ]
-        }, {
             "name":"Minsu Kim",
             "imagePath":"people/member/Minsu_Kim.jpg",
             "position":"M.S.Student",
