@@ -70,7 +70,31 @@
                     "area":"XAI 기술 개발"
                 }
             ],
-            "employment":"PNU Hospital"
+            "employment":""
+        }, {
+            "name":"Jaemin Kang",
+            "imagePath":"people/member/Jaemin_Kang.jpg",
+            "position":"M.S. Student '24",
+            "email":"jaemin7666@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"철강표면결함영상 분석"
+                }, {
+                    "area":"복부의료영상 분석"
+                }
+            ],
+            "employment":""
+        }, {
+            "name":"Duong Anh Quan",
+            "imagePath":"people/member/Duong_Anh_Quan.jpg",
+            "position":"M.S. Student '24",
+            "email":"quanda@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"뇌 표면 영상 처리"
+                }
+            ],
+            "employment":"Hanwha Systems"
         }
     ]
 }
