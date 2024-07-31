@@ -2,6 +2,15 @@
     "publications":[
         {
             "type":"journal",
+            "title":"Multimodal 3D Deep Learning for Early Diagnosis of Alzheimer’s Disease", 
+            "authors":"Seung Kyu Kim, Quan Anh Duong, Jin Kyu Gahm",
+            "link":"https://ieeexplore.ieee.org/abstract/document/10478896",
+            "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478896",
+            "academy":"IEEE Access",
+            "volueIssuePage":"Vol. 12, pp.46278-46289",
+            "date":"2024"
+        }, {
+            "type":"journal",
             "title":"G-RMOS: GPU-accelerated Riemannian Metric Optimization on Surfaces", 
             "authors":"Jeong Won Jo, Jin Kyu Gahm",
             "link":"https://linkinghub.elsevier.com/retrieve/pii/S0010482522008757",
