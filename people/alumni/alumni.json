@@ -2,6 +2,54 @@
     "alumni": 
     [
         {
+            "name":"Jaemin Kang",
+            "imagePath":"people/alumni/Jaemin_Kang.jpg",
+            "position":"M.S.Student 24",
+            "email":"jaemin7666@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"철강표면결함영상 분석"
+                }, {
+                    "area":"복부의료영상 분석"
+                }
+            ],
+            "employment":"-"
+        }, {
+            "name":"Duong Anh Quan",
+            "imagePath":"people/alumni/Duong_Anh_Quan.jpg",
+            "position":"M.S.Student 24",
+            "email":"quanda@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"뇌 표면 영상 처리"
+                }
+            ],
+            "employment":"-"
+        }, {
+            "name":"Wonjune Choi",
+            "imagePath":"people/alumni/Wonjune_Choi.jpg",
+            "position":"M.S. Student '23",
+            "email":"asd147asd147@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"이미지 및 볼륨 기반 딥러닝 모델 개발"
+                }, {
+                    "area":"XAI 기술 개발"
+                }
+            ],
+            "employment":"Telechips"
+        },{
+            "name":"Seungkyu Kim",
+            "imagePath":"people/alumni/Seoungkyu_Kim.jpg",
+            "position":"M.S. Student '23",
+            "email":"aszass5387@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"Multimodal (MRI, PET) 분석"
+                }
+            ],
+            "employment":"Hanwha Systems"
+        },        {
             "name":"Seongsu Park",
             "imagePath":"people/alumni/Seongsu_Park.png",
             "position":"M.S. Graduate '22",
@@ -47,30 +95,6 @@
                 }
             ],
             "employment":"Heuron"
-        },{
-            "name":"Seungkyu Kim",
-            "imagePath":"people/alumni/Seoungkyu_Kim.jpg",
-            "position":"M.S. Student '23",
-            "email":"aszass5387@pusan.ac.kr",
-            "research":[
-                {
-                    "area":"Multimodal (MRI, PET) 분석"
-                }
-            ],
-            "employment":"Hanwha Systems"
-        },{
-            "name":"Wonjune Choi",
-            "imagePath":"people/alumni/Wonjune_Choi.jpg",
-            "position":"M.S. Student '23",
-            "email":"asd147asd147@pusan.ac.kr",
-            "research":[
-                {
-                    "area":"이미지 및 볼륨 기반 딥러닝 모델 개발"
-                }, {
-                    "area":"XAI 기술 개발"
-                }
-            ],
-            "employment":"PNU Hospital"
         }
     ]
 }
