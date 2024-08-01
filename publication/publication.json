@@ -13,8 +13,8 @@
             "type":"journal",
             "title":"G-RMOS: GPU-accelerated Riemannian Metric Optimization on Surfaces", 
             "authors":"Jeong Won Jo, Jin Kyu Gahm",
-            "link":"https://linkinghub.elsevier.com/retrieve/pii/S0010482522008757",
-            "pdf":"https://www.sciencedirect.com/science/article/pii/S0010482522008757/pdfft?isDTMRedir=true&amp;download=true",
+            "link":"https://doi.org/10.1016/j.compbiomed.2022.106167",
+            "pdf":"https://www.sciencedirect.com/science/article/pii/S0010482522008757/pdfft?isDTMRedir=true&download=true",
             "academy":"Computers in Biology and Medicine",
             "volueIssuePage":"Vol. 150, pp. 106167",
             "date":"2022"
@@ -31,8 +31,8 @@
             "type":"journal",
             "title":"Super-Resolution of 3D Brain MRI with Filter Learning Using Tensor Feature Clustering", 
             "authors":"Seongsu Park, and Jin Kyu Gahm",
-            "link":"https://doi.org/10.3390/diagnostics12030637",
-            "pdf":"https://www.mdpi.com/2075-4418/12/3/637/pdf?version=1646978215",
+            "link":"https://ieeexplore.ieee.org/document/9672096",
+            "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9672096",
             "academy":"IEEE Access",
             "volueIssuePage":"Vol. 10",
             "date":"2022"
@@ -40,8 +40,8 @@
             "type":"journal",
             "title":"아리랑 5호 위성 영상에서 수계의 의미론적 분할을 위한 딥러닝 모델의 비교 연구", 
             "authors":"김민지, 김승규, 이도훈, 감진규",
-            "link":"https://doi.org/10.3390/diagnostics12030637",
-            "pdf":"https://www.mdpi.com/2075-4418/12/3/637/pdf?version=1646978215",
+            "link":"https://doi.org/10.9717/kmms.2022.25.2.206",
+            "pdf":"https://www.koreascience.or.kr/article/JAKO202210351408863.pdf",
             "academy":"멀티미디어학회논문집",
             "volueIssuePage":"Vol. 25, No. 2, pp. 206-214",
             "date":"2022"
@@ -49,8 +49,8 @@
             "type":"journal",
             "title":"홈 트레이닝을 위한 운동 동작 분류 및 교정 시스템", 
             "authors":"강재민, 박성수, 김윤수, 감진규",
-            "link":"https://doi.org/10.3390/diagnostics12030637",
-            "pdf":"https://www.mdpi.com/2075-4418/12/3/637/pdf?version=1646978215",
+            "link":"https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002758906",
+            "pdf":"https://www.koreascience.or.kr/article/JAKO202128640529158.pdf",
             "academy":"한국정보통신학회지",
             "volueIssuePage":"Vol. 25, No. 9. pp. 1183-1189",
             "date":"2021. 9"
