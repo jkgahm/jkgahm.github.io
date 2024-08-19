@@ -1,6 +1,4 @@
 {
-
-    
     "featuredNews": {
         "imagePath":"home/news/news_featured.jpg",
         "title":"We Are Looking For Talented Students!",
@@ -17,13 +15,12 @@
 
     "news": [
         {
-            "imagePath":"home/news/ohbm_2023.jpg",
-            "title":"OHBM 국제 학술회 연구 발표",
-            "date":"2024.06.25",
-            "text":"닷 학생이 서울 코엑스에서 열린 OHBM 2024 국제 학술회에 참여하였습니다. OHBM은 뇌 기능과 구조를 연결하는 세계적 학술 대회로 최신 기술과 연구 성과를 공유하는 중요한 자리입니다. 앞으로도 지속적인 연구와 발전을 통해 더 큰 성과를 이루길 기대합니다.",
+            "imagePath":"home/news/2024KAIA.png",
+            "title":"한국인공지능학회 최우수 논문 수상",
+            "date":"2024.08.16",
+            "text":"닷, 일해, 희창, 준희 학생이 지난 2024년 8월 16일 부산에서 개최된 한국인공지능학회 하계학술대회에서 최우수상을 수상하였습니다. 축하합니다!",
             "link":""
-        }, 
-        {
+        }, {
             "imagePath":"home/news/isbi_2023.png",
             "title":"ISBI 국제 학술회 연구 발표",
             "date":"2024.05.28",
@@ -76,6 +73,11 @@
     ],
 
     "lineNews":[
+        {
+            "date":"2024.08.16",
+            "title":"🤗 WELCOME",
+            "text":"Dat, Ilhae, Heechang and Junhee won the Best Paper Award at 2024 KAIA!"
+        },
         {
             "date":"2024.07.29",
             "title":"🤗 WELCOME",
