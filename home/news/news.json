@@ -74,8 +74,16 @@
 
     "lineNews":[
         {
-            "date":"2024.08.16",
+            "date":"2024.08.30",
+            "title":"🎓 CONGRATURATION",
+            "text":"Minsu have graduated from his M.S. Congraturation!"
+        },{
+            "date":"2024.08.26",
             "title":"🤗 WELCOME",
+            "text":"Emil joined our lab as an undergraduate student!"
+        },{
+            "date":"2024.08.16",
+            "title":"🎉 CONGRATURATION",
             "text":"Dat, Ilhae, Heechang and Junhee won the Best Paper Award at 2024 KAIA!"
         },
         {
