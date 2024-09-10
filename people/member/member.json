@@ -28,7 +28,10 @@
             "email":"sydat2000@pusan.ac.kr",
             "research":[
                 {
-                    "area":"의료영상분석"
+                    "area":"치매 진단 딥러닝 모델 개발"
+                },
+                {
+                    "area":"심장영상 분석"
                 }
             ]
         }, {
@@ -38,7 +41,7 @@
             "email":"yih0826@pusan.ac.kr",
             "research":[
                 {
-                    "area":"의료영상분석 및 컴퓨터비전"
+                    "area":"뇌영상 분석"
                 }
             ]
         }, {
@@ -48,13 +51,14 @@
             "email":"yih0826@pusan.ac.kr",
             "research":[
                 {
-                    "area":"의료영상분석 및 컴퓨터비전"
+                    "area":"자기공명영상 초해상화"
                 }
+
             ]
         }, {
             "name":"SeungJae Lee",
             "imagePath":"people/member/SeungJae_Lee.jpg",
-            "position":"Undergraduated student",
+            "position":"Undergraduate student",
             "email":"leesj6717@naver.com",
             "research":[
                 {
@@ -64,7 +68,7 @@
         }, {
             "name":"Emil Kim",
             "imagePath":"people/member/Emil_Kim.jpg",
-            "position":"Undergraduated student",
+            "position":"Undergraduate student",
             "email":"emilkim01@pusan.ac.kr",
             "research":[
                 {
