@@ -2,9 +2,19 @@
     "alumni": 
     [
         {
+            "name":"Minsu Kim",
+            "imagePath":"people/alumni/Minsu_Kim.jpg",
+            "position":"M.S. Graduate '24",
+            "email":"kmskie69@naver.com",
+            "research":[
+                {
+                    "area":"심장영상 분석"
+                }
+            ]
+        },{
             "name":"Jaemin Kang",
             "imagePath":"people/alumni/Jaemin_Kang.jpg",
-            "position":"M.S.Student 24",
+            "position":"M.S. Graduate '24",
             "email":"jaemin7666@pusan.ac.kr",
             "research":[
                 {
@@ -17,7 +27,7 @@
         }, {
             "name":"Duong Anh Quan",
             "imagePath":"people/alumni/Duong_Anh_Quan.jpg",
-            "position":"M.S.Student 24",
+            "position":"M.S. Graduate '24",
             "email":"quanda@pusan.ac.kr",
             "research":[
                 {
@@ -30,7 +40,7 @@
         }, {
             "name":"Wonjune Choi",
             "imagePath":"people/alumni/Wonjune_Choi.jpg",
-            "position":"M.S. Student '23",
+            "position":"M.S. Graduate '23",
             "email":"asd147asd147@pusan.ac.kr",
             "research":[
                 {
@@ -43,7 +53,7 @@
         },{
             "name":"Seungkyu Kim",
             "imagePath":"people/alumni/Seoungkyu_Kim.jpg",
-            "position":"M.S. Student '23",
+            "position":"M.S. Graduate '23",
             "email":"aszass5387@pusan.ac.kr",
             "research":[
                 {

@@ -2,16 +2,6 @@
     "member": 
     [
         {
-            "name":"Minsu Kim",
-            "imagePath":"people/member/Minsu_Kim.jpg",
-            "position":"M.S. Student",
-            "email":"kmskie69@naver.com",
-            "research":[
-                {
-                    "area":"심장영상 분석"
-                }
-            ]
-        }, {
             "name":"Heechang Lee",
             "imagePath":"people/member/Heechang_Lee.jpg",
             "position":"M.S. Student",
@@ -56,6 +46,26 @@
             "imagePath":"people/member/Junhee_Kim.png",
             "position":"M.S. student",
             "email":"yih0826@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"의료영상분석 및 컴퓨터비전"
+                }
+            ]
+        }, {
+            "name":"SeungJae Lee",
+            "imagePath":"people/member/SeungJae_Lee.jpg",
+            "position":"Undergraduated student",
+            "email":"leesj6717@naver.com",
+            "research":[
+                {
+                    "area":"의료영상분석 및 컴퓨터비전"
+                }
+            ]
+        }, {
+            "name":"Emil Kim",
+            "imagePath":"people/member/Emil_Kim.jpg",
+            "position":"Undergraduated student",
+            "email":"emilkim01@pusan.ac.kr",
             "research":[
                 {
                     "area":"의료영상분석 및 컴퓨터비전"
