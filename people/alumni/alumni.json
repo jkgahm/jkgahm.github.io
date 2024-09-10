@@ -2,17 +2,6 @@
     "alumni": 
     [
         {
-            "name":"Minsu Kim",
-            "imagePath":"people/alumni/Minsu_Kim.jpg",
-            "position":"M.S. Graduate '24",
-            "email":"kmskie69@naver.com",
-            "research":[
-                {
-                    "area":"심장영상 분석"
-                }
-            ],
-            "employment":"-"
-        },{
             "name":"Jaemin Kang",
             "imagePath":"people/alumni/Jaemin_Kang.jpg",
             "position":"M.S. Graduate '24",
