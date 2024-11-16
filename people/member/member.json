@@ -66,16 +66,6 @@
 
             ]
         }, {
-            "name":"SeungJae Lee",
-            "imagePath":"people/member/SeungJae_Lee.jpg",
-            "position":"Undergraduate student",
-            "email":"leesj6717@naver.com",
-            "research":[
-                {
-                    "area":"의료영상분석 및 컴퓨터비전"
-                }
-            ]
-        }, {
             "name":"Emil Kim",
             "imagePath":"people/member/Emil_Kim.jpg",
             "position":"Undergraduate student",
