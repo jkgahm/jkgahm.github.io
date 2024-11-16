@@ -15,6 +15,12 @@
 
     "news": [
         {
+            "imagePath":"home/news/dat_miccai2024.png",
+            "title":"MICCAI 국제 학술회 연구 발표",
+            "date":"2024.10.06",
+            "text":"닷 학생이 27회 MICCAI 국제 학술회 Oral session에 참여하여 연구 결과를 발표하였습니다. 축하합니다!",
+            "link":""
+        }, {
             "imagePath":"home/news/2024KAIA.png",
             "title":"한국인공지능학회 최우수 논문 수상",
             "date":"2024.08.16",
