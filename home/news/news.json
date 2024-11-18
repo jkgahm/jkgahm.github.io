@@ -15,6 +15,13 @@
 
     "news": [
         {
+            "imagePath":"home/news/wonjun_neuroimage.png",
+            "title":"NEUROIMAGE 논문 게재",
+            "date":"2024.11.17",
+            "text":"원준 학생이 뇌영상 분야 1위 및 JCR Top 6.67% 저널인 NEUROIMAGE에 비정형 파킨슨 진단을 주제로 한 논문을 게재하였습니다. 축하합니다!",
+            "link":""
+        }, 
+        {
             "imagePath":"home/news/dat_miccai2024.png",
             "title":"MICCAI 국제 학술회 연구 발표",
             "date":"2024.10.06",
