@@ -25,7 +25,7 @@
                     ]
                 }, 
                 {
-                    "type":"Conference",
+                    "type":"conference",
                     "title": "3D Brain MRI Super-Resolution with Image Gradient Tensor Feature Clustering",
                     "detail": "Seongsu Park, Jin Kyu Gahm, The Organization for Human Brain Mapping (OHBM), 2021",
                     "Link": [
