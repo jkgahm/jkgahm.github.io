@@ -2,6 +2,24 @@
     "publications":[
         {
             "type":"journal",
+            "title":"Differentiating atypical parkinsonian syndromes with hyperbolic few-shot contrastive learning", 
+            "authors":"Won June Choi, Jin HwangBo, Duong Anh Quan, Jae-Hyeok Lee, Jin Kyu Gahm",
+            "link":"https://doi.org/10.1016/j.neuroimage.2024.120940",
+            "pdf":"https://doi.org/10.1016/j.neuroimage.2024.120940",
+            "academy":"NeuroImage",
+            "volueIssuePage":"Vol. 304, 120940",
+            "date":"2024"
+        },{
+            "type":"conference",
+            "title":"Enhancing Multimodal Image-Based Classification of Alzheimer’s Disease with Surface Information", 
+            "authors":"Sy Dat Tran, Quan Anh Duong, Jin Kyu Gahm",
+            "link":"https://doi.org/10.1007/978-3-031-75291-9_14",
+            "pdf":"https://doi.org/10.1007/978-3-031-75291-9_14",
+            "academy":"International Conference on Medical Image Computing and Computer-Assisted Intervention (ShapeMI Workshop)",
+            "volueIssuePage":"LNCS,volume 15275",
+            "date":"2024"
+        },{
+            "type":"journal",
             "title":"Multimodal 3D Deep Learning for Early Diagnosis of Alzheimer’s Disease", 
             "authors":"Seung Kyu Kim, Quan Anh Duong, Jin Kyu Gahm",
             "link":"https://ieeexplore.ieee.org/abstract/document/10478896",
