@@ -1,0 +1,102 @@
+{
+    "alumni": 
+    [
+        {
+            "name":"Jaemin Kang",
+            "imagePath":"people/alumni/Jaemin_Kang.jpg",
+            "position":"M.S. Graduate '24",
+            "email":"jaemin7666@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"철강표면결함영상 분석"
+                }, {
+                    "area":"복부의료영상 분석"
+                }
+            ],
+            "employment":"DeltaX"
+        }, {
+            "name":"Duong Anh Quan",
+            "imagePath":"people/alumni/Duong_Anh_Quan.jpg",
+            "position":"M.S. Graduate '24",
+            "email":"quanda@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"뇌 표면 영상 처리"
+                }, {
+                    "area":"치매진단 딥러닝 모델 개발"
+                }
+            ],
+            "employment":"VietRadiology"
+        }, {
+            "name":"Wonjune Choi",
+            "imagePath":"people/alumni/Wonjune_Choi.jpg",
+            "position":"M.S. Graduate '23",
+            "email":"asd147asd147@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"파킨슨병 진단 딥러닝 모델 개발"
+                }, {
+                    "area":"Few Shot Learning/XAI 기술 개발"
+                }
+            ],
+            "employment":"Telechips"
+        },{
+            "name":"Seungkyu Kim",
+            "imagePath":"people/alumni/Seoungkyu_Kim.jpg",
+            "position":"M.S. Graduate '23",
+            "email":"aszass5387@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"Multimodal (MRI, PET) 분석"
+                }
+            ],
+            "employment":"Hanwha Systems"
+        },        {
+            "name":"Seongsu Park",
+            "imagePath":"people/alumni/Seongsu_Park.png",
+            "position":"M.S. Graduate '22",
+            "email":"tjdtnsu@naver.com",
+            "research":[
+                {
+                    "area":"뇌자기공명영상 초해상화"
+                }
+            ],
+            "employment":"VoyagerX"
+        }, {
+            "name":"Yunsoo Kim",
+            "imagePath":"people/alumni/Yunsoo_Kim.jpg",
+            "position":"M.S. Graduate '22",
+            "email":"kim8yunsu16@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"파킨슨병 의료영상 분석"
+                }
+            ],
+            "employment":"Samsung Electronics"
+        },{
+            "name":"Donghyong Lee",
+            "imagePath":"people/alumni/Donghyong_Lee.jpg",
+            "position":"M.S. Graduate '22",
+            "email":"dlehdgud62@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"OCTA 영상 분석"
+                }
+            ],
+            "employment":"Hyundai Robotics"
+        },{
+            "name":"Jeongwon Jo",
+            "imagePath":"people/alumni/Jeongwon_Jo.jpg",
+            "position":"M.S. Graduate '22",
+            "email":"jwjo7936@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"의료영상 정합"
+                }, {
+                    "area":"CUDA 하드웨어 가속화"
+                }
+            ],
+            "employment":"Heuron"
+        }
+    ]
+}

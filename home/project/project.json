@@ -1,0 +1,254 @@
+{
+    "description":"In the three-dimensional environment we live in, there exist numerous natural (such as humans and animals) as well as artificial (such as cars and computers) structures. The visual representations of these structures can be acquired as two-dimensional or three-dimensional digital data through commonly used devices like mobile phones, cameras, or specialized scanning equipment. Technologies for separating these structures from digital images and analyzing/calculating the extracted structural data have been actively developed, particularly in recent years, with a focus on techniques utilizing machine learning, including deep learning, for classification and recognition of structures. Our research lab is dedicated to representing diverse and complex structures through surface modeling and developing algorithms for computing matching between structures of the same category but with different shapes. These shape modeling and matching techniques are utilized as core technologies in various industries relying on image-based applications, including animation, entertainment, security surveillance, robotics, and autonomous driving. In the field of healthcare, in particular, three-dimensional images obtained through techniques like magnetic resonance imaging (MRI) and computed tomography (CT) are used to model/match internal structures (such as the cerebral cortex and hippocampus in the brain) and develop systems for tracking structural changes caused by diseases and diagnosing them.",
+    "main_image_path":[
+        "home/project/research_main_image1.png",
+        "home/project/research_main_image2.png"
+    ],
+    "project": [
+        {
+            "projectTitle":"MRI 영상개선을 위한 텐서 기반 학습",
+            "projectImagePath":"home/project/project1.png",
+            "projectDescription":"The field of super-resolution (SR) for 3D brain MRI focuses on improving the resolution of MRI images to provide more detailed and accurate representations of brain structures. High-resolution MRI is essential for precise diagnostic and research purposes, enabling better visualization of anatomical details. This research area addresses the limitations of hardware and long acquisition times by developing algorithms that enhance low-resolution images. Techniques like machine learning and advanced filter learning are employed to reconstruct high-quality images, particularly enhancing boundary details critical for accurate surface-based analysis and medical applications.",
+            "projectDetail": [
+                {
+                    "type":"journal",
+                    "title": "3D 공간상에서의 주변 기울기 정보를 기반에 둔 필터 학습을 통한 MRI 영상 초해상화",
+                    "detail": "박성수, 김윤수, 감진규. 멀티미디어학회논문집, Vol. 24, No. 2. pp. 178-185, 2021. 2",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":"https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002686776"
+                        },{
+                            "text":"preprint",
+                            "href":"https://www.koreascience.or.kr/article/JAKO202106763002079.pdf"
+                        }
+                    ]
+                }, 
+                {
+                    "type":"conference",
+                    "title": "3D Brain MRI Super-Resolution with Image Gradient Tensor Feature Clustering",
+                    "detail": "Seongsu Park, Jin Kyu Gahm, The Organization for Human Brain Mapping (OHBM), 2021",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                }, {
+                    "type":"journal",
+                    "title": "Super-Resolution of 3D Brain MRI with Filter Learning Using Tensor Feature Clustering",
+                    "detail": "Seongsu Park, and Jin Kyu Gahm, IEEE Access, Vol. 10, 2022",
+                    "Link": [
+                        {
+                            "text":"Link",
+                            "href":"https://ieeexplore.ieee.org/document/9672096"
+                        },{
+                            "text":"Preprint",
+                            "href":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9672096"
+                        }
+                    ]
+                }
+
+            ]
+        }, {
+            "projectTitle":"라디오믹스 기반 비정형 파킨슨병 진단",
+            "projectImagePath":"home/project/project2.png",
+            "projectDescription":"The field of medical imaging analysis using machine learning (ML) and deep learning (DL) is crucial for diagnosing atypical Parkinsonian disorders. This research area leverages advanced imaging techniques and computational models to identify and analyze subtle changes in brain structures that are indicative of these disorders. Radiomics features, which are quantitative descriptors extracted from medical images, play a significant role in this process. These features capture the texture, shape, and intensity patterns in the images, providing detailed information that, when combined with ML and DL algorithms, enhances the accuracy of diagnosis and helps in distinguishing between different types of Parkinsonian syndromes. This approach improves early detection and personalized treatment planning, making it a vital area of study in neuroimaging and neurological research.",
+            "projectDetail": [
+                {
+                    "type":"journal",
+                    "title": "3D 오토인코더 기반의 뇌 자기공명영상에서 다발성 경화증 병변 검출",
+                    "detail": "최원준, 박성수, 김윤수, 감진규. 멀티미디어학회논문집, Vol. 24, No. 8. pp. 979-987, 2021. 8",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":"https://doi.org/10.3390/diagnostics12030637"
+                        },{
+                            "text":"preprint",
+                            "href":"https://www.mdpi.com/2075-4418/12/3/637/pdf?version=1646978215"
+                        }
+                    ]
+                },{
+                    "type":"conference",
+                    "title": "Deep Learning-Based Differentiation of Atypical Parkinsonian Syndromes Using Susceptibility Weighted Images",
+                    "detail": "Won June Choi, Lee Jae-Hyeok, Jin Kyu Gahm. RSNA (Radiological Society of North America), 2022",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                },{
+                    "type":"journal",
+                    "title": "Automated Differentiation of Atypical Parkinsonian Syndromes Using Brain Iron Patterns in Susceptibility Weighted Imaging",
+                    "detail": "Yun Soo Kim, Jae-Hyeok Lee, Jin Kyu Gahm. Diagnostics, Vol. 12(3), pp. 637, 2022",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":"https://doi.org/10.3390/diagnostics12030637"
+                        },{
+                            "text":"preprint",
+                            "href":"https://www.mdpi.com/2075-4418/12/3/637/pdf?version=1646978215"
+                        }
+                    ]
+                },{
+                    "type":"conference",
+                    "title": "Few-Shot Learning Approach of Atypical Parkinsonian Syndromes Using Brain Iron Patterns in SWI",
+                    "detail": "Won June Choi, Quan Duong, Jae-Hyeok Lee, Jin Kyu Gahm. The Organization for Human Brain Mapping (OHBM), 2023",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                }
+
+            ]
+        }, {
+            "projectTitle":"치매진단을 위한 서피스정합 가속화",
+            "projectImagePath":"home/project/project3.png",
+            "projectDescription":"Research on accelerating surface registration methods for brain analysis is vital for improving the diagnosis of neurological conditions such as dementia. Surface registration aligns brain images to a common template, enabling detailed comparisons of cortical structures across individuals. By speeding up this process through advanced algorithms and computational techniques, more accurate and efficient analysis of brain morphology is possible. This accelerated approach facilitates early detection and monitoring of dementia by highlighting subtle structural changes, ultimately aiding in timely and targeted intervention strategies.",
+            "projectDetail": [
+                {
+                    "type":"journal",
+                    "title": "G-RMOS: GPU-accelerated Riemannian Metric Optimization on Surfaces",
+                    "detail": "Jeong Won Jo, Jin Kyu Gahm. Computers in Biology and Medicine, Vol. 150, pp. 106167, 2022",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":"https://doi.org/10.1016/j.compbiomed.2022.106167"
+                        },{
+                            "text":"preprint",
+                            "href":"https://www.sciencedirect.com/science/article/pii/S0010482522008757/pdfft?isDTMRedir=true&download=true"
+                        }
+                    ]
+                },{
+                    "type":"conference",
+                    "title": "G-RMOS: GPU-accelerated Riemannian Metric Optimization on Surfaces",
+                    "detail": "Jeong won Jo, Jin Kyu Gahm. IEEE International Symposium on Biomedical Imaging (ISBI), 2022",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                }
+
+            ]
+        }, {
+            "projectTitle":"서피스 기반의 뇌장애 진단",
+            "projectImagePath":"home/project/project4.png",
+            "projectDescription":"The field of surface-based brain disorder diagnosis utilizes advanced imaging techniques in conjunction with machine learning (ML) and deep learning (DL) to analyze the cortical surface of the brain. This approach focuses on reconstructing and examining brain surfaces to detect structural changes associated with neurological conditions such as Alzheimer's disease and other dementias. ML and DL algorithms play a crucial role by identifying subtle patterns and anomalies with high precision, facilitating early detection, personalized treatment plans, and improved patient outcomes. This research is essential for advancing diagnostic accuracy and therapeutic strategies in neurological care.",
+            "projectDetail": [
+                {
+                    "type":"conference",
+                    "title": "멀티모달 영상 기반 3D 딥러닝 모델을 활용한 알츠하이머성 치매 조기 진단",
+                    "detail": "김승규, 최원준, 강재민, 드엉안꾸안, 김민수, 정홍빈, 감진규. 한국소프트웨어종합학술대회, 2022",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                },
+                {
+                    "type":"conference",
+                    "title": "Multimodal Deep Learning Model for Early Diagnosis of Alzheimer’s Disease using ROI",
+                    "detail": "Seung Kyu Kim, Quan Duong, Jin Kyu Gahm. The Organization for Human Brain Mapping (OHBM), 2023",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                },
+                {
+                    "type":"conference",
+                    "title": "Multimodal Cortical-based Analysis with Vision Transformer for Alzheimer’s Disease Diagnosis",
+                    "detail": "Quan Duong, Seung Kyu Kim, Jin Kyu Gahm. The Organization for Human Brain Mapping (OHBM), 2023",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                },
+                {
+                    "type":"journal",
+                    "title": "Multimodal 3D Deep Learning for Early Diagnosis of Alzheimer’s Disease",
+                    "detail": "Seung Kyu Kim, Quan Anh Duong, Jin Kyu Gahm. IEEE Access, Vol. 12, pp.46278-46289, 2024",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":"https://ieeexplore.ieee.org/abstract/document/10478896"
+                        },{
+                            "text":"preprint",
+                            "href":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478896"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "projectTitle":"담도암 관련 프로젝트",
+            "projectImagePath":"home/project/project5.png",
+            "projectDescription":"desc",
+            "projectDetail": [
+                {
+                    "type":"journal",
+                    "title": "t2",
+                    "detail": "d2",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "projectTitle":"심장 관련 프로젝트",
+            "projectImagePath":"home/project/project6.png",
+            "projectDescription":"desc",
+            "projectDetail": [
+                 {
+                    "type":"journal",
+                    "title": "t2",
+                    "detail": "d2",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

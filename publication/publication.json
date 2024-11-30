@@ -1,0 +1,455 @@
+{
+    "publications":[
+        {
+            "type":"journal",
+            "title":"Multimodal 3D Deep Learning for Early Diagnosis of Alzheimer’s Disease", 
+            "authors":"Seung Kyu Kim, Quan Anh Duong, Jin Kyu Gahm",
+            "link":"https://ieeexplore.ieee.org/abstract/document/10478896",
+            "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478896",
+            "academy":"IEEE Access",
+            "volueIssuePage":"Vol. 12, pp.46278-46289",
+            "date":"2024"
+        }, {
+            "type":"journal",
+            "title":"G-RMOS: GPU-accelerated Riemannian Metric Optimization on Surfaces", 
+            "authors":"Jeong Won Jo, Jin Kyu Gahm",
+            "link":"https://doi.org/10.1016/j.compbiomed.2022.106167",
+            "pdf":"https://www.sciencedirect.com/science/article/pii/S0010482522008757/pdfft?isDTMRedir=true&download=true",
+            "academy":"Computers in Biology and Medicine",
+            "volueIssuePage":"Vol. 150, pp. 106167",
+            "date":"2022"
+        }, {
+            "type":"journal",
+            "title":"Automated Differentiation of Atypical Parkinsonian Syndromes Using Brain Iron Patterns in Susceptibility Weighted Imaging", 
+            "authors":"Yun Soo Kim, Jae-Hyeok Lee, Jin Kyu Gahm",
+            "link":"https://doi.org/10.3390/diagnostics12030637",
+            "pdf":"https://www.mdpi.com/2075-4418/12/3/637/pdf?version=1646978215",
+            "academy":"Diagnostics",
+            "volueIssuePage":"Vol. 12(3), pp. 637",
+            "date":"2022"
+        }, {
+            "type":"journal",
+            "title":"Super-Resolution of 3D Brain MRI with Filter Learning Using Tensor Feature Clustering", 
+            "authors":"Seongsu Park, and Jin Kyu Gahm",
+            "link":"https://ieeexplore.ieee.org/document/9672096",
+            "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9672096",
+            "academy":"IEEE Access",
+            "volueIssuePage":"Vol. 10",
+            "date":"2022"
+        }, {
+            "type":"journal",
+            "title":"아리랑 5호 위성 영상에서 수계의 의미론적 분할을 위한 딥러닝 모델의 비교 연구", 
+            "authors":"김민지, 김승규, 이도훈, 감진규",
+            "link":"https://doi.org/10.9717/kmms.2022.25.2.206",
+            "pdf":"https://www.koreascience.or.kr/article/JAKO202210351408863.pdf",
+            "academy":"멀티미디어학회논문집",
+            "volueIssuePage":"Vol. 25, No. 2, pp. 206-214",
+            "date":"2022"
+        }, {
+            "type":"journal",
+            "title":"홈 트레이닝을 위한 운동 동작 분류 및 교정 시스템", 
+            "authors":"강재민, 박성수, 김윤수, 감진규",
+            "link":"https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002758906",
+            "pdf":"https://www.koreascience.or.kr/article/JAKO202128640529158.pdf",
+            "academy":"한국정보통신학회지",
+            "volueIssuePage":"Vol. 25, No. 9. pp. 1183-1189",
+            "date":"2021. 9"
+        }, {
+            "type":"journal",
+            "title":"3D 오토인코더 기반의 뇌 자기공명영상에서 다발성 경화증 병변 검출", 
+            "authors":"최원준, 박성수, 김윤수, 감진규",
+            "link":"https://doi.org/10.3390/diagnostics12030637",
+            "pdf":"https://www.mdpi.com/2075-4418/12/3/637/pdf?version=1646978215",
+            "academy":"멀티미디어학회논문집",
+            "volueIssuePage":"Vol. 24, No. 8. pp. 979-987",
+            "date":"2021. 8"
+        }, {
+            "type":"journal",
+            "title":"3D 공간상에서의 주변 기울기 정보를 기반에 둔 필터 학습을 통한 MRI 영상 초해상화", 
+            "authors":"박성수, 김윤수, 감진규",
+            "link":"https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002686776",
+            "pdf":"https://www.koreascience.or.kr/article/JAKO202106763002079.pdf",
+            "academy":"멀티미디어학회논문집",
+            "volueIssuePage":"Vol. 24, No. 2. pp. 178-185",
+            "date":"2021. 2"
+        }, {
+            "type":"journal",
+            "title":"3D Retinal Vessel Density Mapping With OCT-Angiography", 
+            "authors":"Mona Sharifi Sarabi, Maziyar M Khansari, Jiong Zhang, Sam Kushner-Lenhoff, Jin Kyu Gahm, Yuchuan Qiao, Amir H Kashani, Yonggang Shi",
+            "link":"https://ieeexplore.ieee.org/abstract/document/9194236",
+            "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9194236",
+            "academy":"IEEE Journal of Biomedical and Health Informatics",
+            "volueIssuePage":"Vol. 24, No. 12, pp. 3466-3479",
+            "date":"2020. 9"
+        }, {
+            "type":"journal",
+            "title":"3D shape modeling and analysis of retinal microvasculature in OCT-angiography images", 
+            "authors":"Jiong Zhang, Yuchuan Qiao, Mona Sharifi Sarabi, Maziyar M Khansari, Jin K Gahm, Amir H Kashani, Yonggang Shi",
+            "link":"https://ieeexplore.ieee.org/abstract/document/8879535",
+            "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8879535",
+            "academy":"IEEE transactions on medical imaging",
+            "volueIssuePage":"Vol. 39, No. 5, pp. 1335-1346",
+            "date":"2019. 10"
+        }, {
+            "type":"journal",
+            "title":"Automated Deformation-Based Analysis of 3D Optical Coherence Tomography in Diabetic Retinopathy", 
+            "authors":"Maziyar M Khansari, Jiong Zhang, Yuchuan Qiao, Jin Kyu Gahm, Mona Sharifi Sarabi, Amir H Kashani, Yonggang Shi",
+            "link":"https://ieeexplore.ieee.org/abstract/document/8744275",
+            "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744275",
+            "academy":"IEEE transaction on medical imaging",
+            "volueIssuePage":"Vol. 39, No. 1, pp. 236-245",
+            "date":"2019. 6"
+        }, {
+            "type":"journal",
+            "title":"An automated 3D analysis framework for optical coherence tomography angiography", 
+            "authors":"Mona Sharifi Sarabi, Jin Kyu Gahm, Maziyar M Khansari, Jiong Zhang, Amir H Kashani, Yonggang Shi",
+            "link":"https://www.biorxiv.org/content/10.1101/655175v1.abstract",
+            "pdf":"https://www.biorxiv.org/content/10.1101/655175v1.full.pdf",
+            "academy":"BioRxiv",
+            "volueIssuePage":" pp. 655175",
+            "date":"2019. 1"
+        }, {
+            "type":"journal",
+            "title":"Microstructural infarct border zone remodeling in the post-infarct swine heart measured by diffusion tensor MRI", 
+            "authors":"Geoffrey L Kung, Marmar Vaseghi, Jin K Gahm, Jane Shevtsov, Alan Garfinkel, Kalyanam Shivkumar, Daniel B Ennis",
+            "link":"https://www.frontiersin.org/articles/10.3389/fphys.2018.00826/full",
+            "pdf":"",
+            "academy":"Frontiers in physiology",
+            "volueIssuePage":"Vol. 9, pp. 826",
+            "date":"2018. 8"
+        }, {
+            "type":"journal",
+            "title":"Riemannian Metric Optimization on Surfaces (RMOS) for Intrinsic Brain Mapping in the Laplace-Beltrami Embedding Space", 
+            "authors":"Jin Kyu Gahm, Yonggang Shi",
+            "link":"https://www.sciencedirect.com/science/article/pii/S1361841518300847",
+            "pdf":"https://reader.elsevier.com/reader/sd/pii/S1361841518300847?token=25F24D5F646E47874BB5C4C6D296947B52788EEF6AAA99CDC90E0F1D55FC3039760F7D26BD4B6BFDF619250514E1ECAD&originRegion=us-east-1&originCreation=20220127063017",
+            "academy":"Medical image analysis",
+            "volueIssuePage":"Vol. 46, pp. 189-201",
+            "date":"2018. 5"
+        }, {
+            "type":"journal",
+            "title":"Topological false discovery rates for brain mapping based on signal height", 
+            "authors":"Junning Li, Jin Kyu Gahm, Yonggang Shi, Arthur W Toga",
+            "link":"https://www.sciencedirect.com/science/article/pii/S1053811916305225",
+            "pdf":"https://reader.elsevier.com/reader/sd/pii/S1053811916305225?token=8C12C685D28EAD911F6DCEB61E932D517A8557CB4F6D95A2E3A1889B00FC480568F357661333CFE28DB4C80A3745BB69&originRegion=us-east-1&originCreation=20220127063142",
+            "academy":"Neuroimage",
+            "volueIssuePage":"Vol. 167, pp. 478-487",
+            "date":"2018.2"
+        }, {
+            "type":"journal",
+            "title":"Optical coherence tomography angiography: a comprehensive review of current methods and clinical applications", 
+            "authors":"Amir H Kashani, Chieh-Li Chen, Jin K Gahm, Fang Zheng, Grace M Richter, Philip J Rosenfeld, Yonggang Shi, Ruikang K Wang",
+            "link":"https://www.sciencedirect.com/science/article/abs/pii/S1350946216300921",
+            "pdf":"",
+            "academy":"Progress in retinal and eye research",
+            "volueIssuePage":"Vol. 60, pp. 66-100",
+            "date":"2017. 9"
+        }, {
+            "type":"journal",
+            "title":"Microstructural Feature-based Processing and Analysis of Diffusion Tensor MRI", 
+            "authors":"Jin Kyu Gahm",
+            "link":"https://www.proquest.com/docview/1518539119?pq-origsite=gscholar&fromopenview=true",
+            "pdf":"",
+            "academy":"University of California, Los Angeles",
+            "volueIssuePage":"",
+            "date":"2014"
+        }, {
+            "type":"journal",
+            "title":"The effects of noise over the complete space of diffusion tensor shape", 
+            "authors":"Jin Kyu Gahm, Gordon Kindlmann, Daniel B Ennis",
+            "link":"https://www.sciencedirect.com/science/article/pii/S1361841513001539",
+            "pdf":"https://reader.elsevier.com/reader/sd/pii/S1361841513001539?token=4BFC59F86B0BC269E03463125C1B4CB27467E5C24D93916EDBED703B29D49F3B0368A7C4E4E38A6C2761F1DFE028D179&originRegion=us-east-1&originCreation=20220127065654",
+            "academy":"Medical image analysis",
+            "volueIssuePage":"Vol. 18, No. 1",
+            "date":"2014. 1"
+        }, {
+            "type":"conference",
+            "title":"Multimodal Cortical-based Analysis with Vision Transformer for Alzheimer’s Disease Diagnosis", 
+            "authors":"Quan Duong, Seung Kyu Kim, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The Organization for Human Brain Mapping (OHBM)",
+            "volueIssuePage":"",
+            "date":"2023"
+        }, {
+            "type":"conference",
+            "title":"Multimodal Deep Learning Model for Early Diagnosis of Alzheimer’s Disease using ROI", 
+            "authors":"Seung Kyu Kim, Quan Duong, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The Organization for Human Brain Mapping (OHBM)",
+            "volueIssuePage":"",
+            "date":"2023"
+        }, {
+            "type":"conference",
+            "title":"Few-Shot Learning Approach of Atypical Parkinsonian Syndromes Using Brain Iron Patterns in SWI", 
+            "authors":"Won June Choi, Quan Duong, Jae-Hyeok Lee, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The Organization for Human Brain Mapping (OHBM)",
+            "volueIssuePage":"",
+            "date":"2023"
+        }, {
+            "type":"conference",
+            "title":"멀티모달 영상 기반 3D 딥러닝 모델을 활용한 알츠하이머성 치매 조기 진단", 
+            "authors":"김승규, 최원준, 강재민, 드엉안꾸안, 김민수, 정홍빈, 감진규",
+            "link":"",
+            "pdf":"",
+            "academy":"한국소프트웨어종합학술대회",
+            "volueIssuePage":"",
+            "date":"2022"
+        }, {
+            "type":"conference",
+            "title":"Deep Learning-Based Differentiation of Atypical Parkinsonian Syndromes Using Susceptibility Weighted Images", 
+            "authors":"Won June Choi, Lee Jae-Hyeok, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"RSNA (Radiological Society of North America)",
+            "volueIssuePage":"",
+            "date":"2022"
+        }, {
+            "type":"conference",
+            "title":"Few-Shot Learning Framework for Diagnosis of Atypical Parkinsonian Syndromes Using Susceptibility Weighted Imaging", 
+            "authors":"Won June Choi, Lee Jae-Hyeok, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"한국인공지능학회 & NAVER 추계 공동학술대회",
+            "volueIssuePage":"",
+            "date":"2022"
+        }, {
+            "type":"conference",
+            "title":"비정형 파킨슨병 신드롬 진단을 위한 자화율 강조 자기공명영상 기반 FEW-SHOT 프레임워크", 
+            "authors":"최원준, 이재혁, 감진규",
+            "link":"",
+            "pdf":"",
+            "academy":"대한의료인공지능학회",
+            "volueIssuePage":"",
+            "date":"2022 (포스터 최우수상)"
+        }, {
+            "type":"conference",
+            "title":"3차원 OCT-A 영상 기반 망막 병증 진단 심층학습 모델 연구", 
+            "authors":"이동형, 감진규",
+            "link":"",
+            "pdf":"",
+            "academy":"한국멀티미디어학회 춘계학술대회",
+            "volueIssuePage":"",
+            "date":"2022 (우수논문상)"
+        }, {
+            "type":"conference",
+            "title":"G-RMOS: GPU-Accelerated Riemannian Metric Optimization on Surfaces", 
+            "authors":"Jeong won Jo, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"IEEE International Symposium on Biomedical Imaging (ISBI)",
+            "volueIssuePage":"",
+            "date":"2022"
+        }, {
+            "type":"conference",
+            "title":"Differentiating Parkinsonian Syndromes Using Distinctive Brain Iron Accumulation Patterns in Susceptibility Weighted Image (SWI)", 
+            "authors":"Yun Soo Kim, Jae-Hyeok Lee, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"2022 IEEE International Conference on Big Data and Smart Computing (BigComp)",
+            "volueIssuePage":"",
+            "date":"2022"
+        }, {
+            "type":"conference",
+            "title":"ResNet50을 이용한 냉연강판에서의 표면결함 자동분류", 
+            "authors":"최원준, 김윤수, 조정원, 이동형, 김승규, 박성수, 강재민, 감진규",
+            "link":"",
+            "pdf":"",
+            "academy":"한국소프트웨어종합학술대회",
+            "volueIssuePage":"",
+            "date":"2021"
+        }, {
+            "type":"conference",
+            "title":"3D Brain MRI Super-Resolution with Image Gradient Tensor Feature Clustering", 
+            "authors":"Seongsu Park, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The Organization for Human Brain Mapping (OHBM)",
+            "volueIssuePage":"",
+            "date":"2021"
+        }, {
+            "type":"conference",
+            "title":"Preprocessing subcortical structures surface model in SWI for atypical parkinsonian syndromes", 
+            "authors":"Yun Soo Kim, Lee Jae Hyeok, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The Organization for Human Brain Mapping (OHBM)",
+            "volueIssuePage":"",
+            "date":"2021"
+        }, {
+            "type":"conference",
+            "title":"Surface-based Tracking of U-fibers in the Superficial White Matter", 
+            "authors":"Jin Kyu Gahm, Yonggang Shi",
+            "link":"https://link.springer.com/chapter/10.1007/978-3-030-32248-9_60",
+            "pdf":"https://link.springer.com/content/pdf/10.1007%2F978-3-030-32248-9.pdf",
+            "academy":"International Conference on Medical Image Computing and Computer-Assisted Intervention",
+            "volueIssuePage":"pp. 538-546",
+            "date":"2019. 10"
+        }, {
+            "type":"conference",
+            "title":"Automatic 3D Vessel analysis framework for Optical Coherence Tomography Angiography", 
+            "authors":"Jiong Zhang, Jin Kyu Gahm, Amir Kashani",
+            "link":"https://iovs.arvojournals.org/article.aspx?articleid=2748091",
+            "pdf":"",
+            "academy":"Investigative Ophthalmology & Visual Science",
+            "volueIssuePage":"Vol. 60, No. 11, pp. 006-006",
+            "date":"2019.8"
+        }, {
+            "type":"conference",
+            "title":"3D shape representation of OCT Angiography images", 
+            "authors":"Jiong Zhang, Yuchuan Qiao, Maziyar M Khansari, Jin Kyu Gahm, Amir H Kashani, Yonggang Shi",
+            "link":"https://iovs.arvojournals.org/article.aspx?articleid=2748090",
+            "pdf":"",
+            "academy":"Investigative Ophthalmology & Visual Science",
+            "volueIssuePage":"Vol. 60, No. 11, pp. 005-005",
+            "date":"2019. 8"
+        }, {
+            "type":"conference",
+            "title":"P4-285: TAU-ASSOCIATED BEHAVIORAL CHANGES IN MILD COGNITIVE IMPAIRMENT", 
+            "authors":"Xinting Ge, Yuchuan Qiao, JinKyu Gahm, Yonggang Shi",
+            "link":"https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1016/j.jalz.2019.06.3954",
+            "pdf":"https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1016/j.jalz.2019.06.3954",
+            "academy":"Alzheimer's & Dementia",
+            "volueIssuePage":"Vol. 15, pp. 1395-1395",
+            "date":"2019. 7"
+        }, {
+            "type":"conference",
+            "title":"Patch-Based Mapping of Transentorhinal Cortex with a Distributed Atlas", 
+            "authors":"Jin Kyu Gahm, Yuchun Tang, Yonggang Shi",
+            "link":"https://link.springer.com/chapter/10.1007/978-3-030-00931-1_79",
+            "pdf":"",
+            "academy":"International Conference on Medical Image Computing and Computer-Assisted Intervention",
+            "volueIssuePage":"pp. 689-697",
+            "date":"2018. 9"
+        }, {
+            "type":"conference",
+            "title":"Holistic mapping of striatum surfaces in the Laplace-Beltrami embedding space", 
+            "authors":"Jin Kyu Gahm, Yonggang Shi",
+            "link":"https://link.springer.com/chapter/10.1007/978-3-319-66182-7_3",
+            "pdf":"",
+            "academy":"International Conference on Medical Image Computing and Computer-Assisted Intervention",
+            "volueIssuePage":"pp. 21-30",
+            "date":"2017. 9"
+        }, {
+            "type":"conference",
+            "title":"Curvelet-based Vessel Enhancement for 3D OCT Angiography", 
+            "authors":"Yonggang Shi, Jin Kyu Gahm, Amir H Kashani",
+            "link":"https://iovs.arvojournals.org/article.aspx?articleid=2637959",
+            "pdf":"",
+            "academy":"Investigative Ophthalmology & Visual Science",
+            "volueIssuePage":"Vol. 58, No. 8, pp. 648-648",
+            "date":"2017. 6"
+        }, {
+            "type":"conference",
+            "title":"Evaluation of Whole Brain and ZOOMit T1-weighted Turbo-Spin Echo (TSE) for Visualization of Human Lenticulostriate Arteries at 3.0 T: A Preliminary Study", 
+            "authors":"Samantha J Ma, Jin Kyu Gahm, Lirong Yan, Yelong Shen, Xingfeng Shao, Yonggang Shi, Danny JJ Wang",
+            "link":"",
+            "pdf":"",
+            "academy":"International Society of Magnetic Resonance in Medicine Annual Meeting, Honolulu, HI, USA",
+            "volueIssuePage":"pp. 2565",
+            "date":"2017"
+        }, {
+            "type":"conference",
+            "title":"Validation of Metric Optimization-based Surface Mapping for the Prediction of Hippocampal Subfields", 
+            "authors":"Jin Kyu Gahm, Yonggang Shi",
+            "link":"https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=3252",
+            "pdf":"",
+            "academy":"The Organization for Human Brain Mapping (OHBM)",
+            "volueIssuePage":"",
+            "date":"2017"
+        }, {
+            "type":"conference",
+            "title":"Riemannian Metric Optimization for Connectivity-Driven Surface Mapping", 
+            "authors":"Jin Kyu Gahm, Yonggang Shi",
+            "link":"https://link.springer.com/chapter/10.1007/978-3-319-46720-7_27",
+            "pdf":"",
+            "academy":"Medical Image Computing and Computer-Assisted Intervention–MICCAI 2016",
+            "volueIssuePage":"pp. 228-236",
+            "date":"2016. 10"
+        }, {
+            "type":"conference",
+            "title":"Hippocampal and Cognitive Impacts of Depression in Multiple Sclerosis", 
+            "authors":"Nancy Sicotte, Stefan Gold, Mary-Frances O'Connor, Enrique Lopez, Kimberly Smith, Cristina Yamakawa, Brian Renner, Jin Gahm, Yonggang Shi",
+            "link":"https://n.neurology.org/content/86/16_Supplement/P4.178.short",
+            "pdf":"",
+            "academy":"Neurology",
+            "volueIssuePage":"Vol. 86, No. 16, pp. 178",
+            "date":"2016. 4"
+        }, {
+            "type":"conference",
+            "title":"Comorbid depression in multiple sclerosis: cognitive and hippocampal impacts", 
+            "authors":"SM Gold, M-F O'Connor, E Lopez, K Smith, C Yamakawa, B Renner, JK Gahm, Y Shi, NL Sicotte",
+            "link":"https://onlinelibrary.ectrims-congress.eu/ectrims/2015/31st/116646/nancy.sicotte.comorbid.depression.in.multiple.sclerosis.cognitive.and.html",
+            "pdf":"",
+            "academy":"European Committee for Treatment and Research in Multiple Sclerosis",
+            "volueIssuePage":"Vol. 21, pp. 25-26",
+            "date":"2015. 9"
+        }, {
+            "type":"conference",
+            "title":"Dyadic tensor-based interpolation of tensor orientation: application to cardiac DT-MRI", 
+            "authors":"Jin Kyu Gahm, Daniel B Ennis",
+            "link":"https://link.springer.com/chapter/10.1007/978-3-642-54268-8_16",
+            "pdf":"",
+            "academy":"International Workshop on Statistical Atlases and Computational Models of the Heart",
+            "volueIssuePage":"pp. 135-142",
+            "date":"2013.9"
+        }, {
+            "type":"conference",
+            "title":"Weighted component-based tensor distance applied to graph-based segmentation of cardiac DT-MRI", 
+            "authors":"Jin Kyu Gahm, Geoffrey L Kung, Daniel B Ennis",
+            "link":"https://ieeexplore.ieee.org/abstract/document/6556522",
+            "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6556522",
+            "academy":"2013 IEEE 10th International Symposium on Biomedical Imaging",
+            "volueIssuePage":"pp. 504-507",
+            "date":"2013.4"
+        }, {
+            "type":"conference",
+            "title":"Microstrucutral remodeling in the porcine infarct border zone measured by diffusion tensor and late gadolinium enhancement MRI", 
+            "authors":"Geoffrey L Kung, Olujimi M Ajijola, Roderick Tung, Marmar Vaseghi, Jin Kyu Gahm, Wei Zhou, Aman Mahajan, Alan Garfinkel, Kalyanam Shivkumar, Daniel B Ennis",
+            "link":"https://www.ahajournals.org/doi/abs/10.1161/circ.126.suppl_21.A14246",
+            "pdf":"",
+            "academy":"Circulation",
+            "volueIssuePage":"Vol. 126, No. 21, pp. A14246-A14246",
+            "date":"2012. 11"
+        }, {
+            "type":"conference",
+            "title":"Microstrucutral remodeling in the post-infarct porcine heart measured by diffusion tensor MRI and T1-weighted late gadolinium enhancement MRI", 
+            "authors":"Geoffrey L Kung, Olujimi Ajijola, Rafael J Ramirez, Jin Kyu Gahm, Wei Zhou, N Wisniewski, Aman Mahajan, Alan Garfinkel, Kalyaman Shivkumar, Daniel Ennis",
+            "link":"https://link.springer.com/article/10.1186/1532-429X-14-S1-P66",
+            "pdf":"https://link.springer.com/content/pdf/10.1186/1532-429X-14-S1-P66.pdf",
+            "academy":"Journal of Cardiovascular Magnetic Resonance",
+            "volueIssuePage":"Vol. 14, No. 1, pp. 66",
+            "date":"2012. 2"
+        }, {
+            "type":"conference",
+            "title":"Linear Invariant Tensor Interpolation Applied to Cardiac Diffusion Tensor MRI", 
+            "authors":"Jin Kyu Gahm, Nicholas Wisniewski, Gordon Kindlmann, Geoffrey L. Kung, William S. Klug, Alan Garfinkel, Daniel B. Ennis",
+            "link":"https://link.springer.com/chapter/10.1007/978-3-642-33418-4_61",
+            "pdf":"",
+            "academy":"Medical Image Computing and Computer-Assisted Intervention-MICCAI 2012",
+            "volueIssuePage":"pp. 494-501",
+            "date":"2012"
+        }, {
+            "type":"conference",
+            "title":"Statisitcal Comparison of DT-MRI Interpolation Methods Using Cardiac DT-MRI Data", 
+            "authors":"JK Gahm, N Wisniewski, WS Klug, A Garfinkel, DB Ennis",
+            "link":"",
+            "pdf":"https://d1wqtxts1xzle7.cloudfront.net/54456260/Statistical_Comparison_of_DT-MRI_Interpo20170917-11384-607kr1.pdf?1505669977=&response-content-disposition=inline%3B+filename%3DStatistical_Comparison_of_DT_MRI_Interpo.pdf&Expires=1643270856&Signature=UjDCnv-uzZ3FW0FWNN2ZivVJ-W6nOl2BXptnLW3XlTRO8q89G3iB6I5fFUXHs4BkgoNqVq-aRb7VtirQbcySJ2vlURcbTRXStM-TZcsVt-HuucfEOBewONEWaTyev4q1C~Y6fBDCBesLz3v1q80qTaWUjWzS7LVNxO8C2ulOwPyZUPJ1PGJPLzWQStoJBu6ZfFzWGM2aEt3Q1n0oEeD0Ad68VtnrGbD3pgZj3LZYeVHzhAspq711ApdT6UYrgm41BkMxoX50GESzueRWMUQxjYgZgiqPllumD7z3H9dQ4RDTaaDCPYiqtP4Vk7lnUOJUvygCwVy4Rs-XrU1YvU1rVg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+            "academy":"Proceedings of the International Society for Magnetic Resonance in Medicine",
+            "volueIssuePage":"",
+            "date":"2011"
+        }, {
+            "type":"conference",
+            "title":"Closed-loop person tracking and detection", 
+            "authors":"Vera Kettnaker, J-K Gahm",
+            "link":"https://ieeexplore.ieee.org/abstract/document/1301461",
+            "pdf":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1301461",
+            "academy":"First Canadian Conference on Computer and Robot Vision",
+            "volueIssuePage":"pp.315-320",
+            "date":"2004. 5"
+        }
+    ]
+}
