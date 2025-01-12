@@ -28,6 +28,78 @@
             "volueIssuePage":"Vol. 12, pp.46278-46289",
             "date":"2024"
         }, {
+            "type":"conference",
+            "title":"Few-shot Learning Approach for Differentiation of Atypical Parkinsonian Syndromes Using Susceptibility Weighted Imaging", 
+            "authors":"Won June Choi, Jin HwangBo, Duong Anh Quan, Jae-Hyeok Lee, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"2024 ISMRM & ISMRT Annual Meeting, Singapore (**Oral presentation)",
+            "volueIssuePage":"",
+            "date":"2024"
+        }, {
+            "type":"conference",
+            "title":"Surface-based Middle-Fusion Attention Model for Early Alzheimer's Disease Diagnosis", 
+            "authors":"Quan Anh Duong, Sy Dat Tran, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The Organization for Human Brain Mapping (OHBM)",
+            "volueIssuePage":"",
+            "date":"2024"
+        }, {
+            "type":"conference",
+            "title":"Automated Diagnosis of Cholangiocarcinoma Using Contrastive Learning in CT images", 
+            "authors":"Jae Min Kang, Hee Chang Lee, Dong Uk Kim, Giltae Song, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"21st IEEE International Symposium on Biomedical Imaging (ISBI 2024), Greece",
+            "volueIssuePage":"",
+            "date":"2024"
+        }, {
+            "type":"conference",
+            "title":"Automated Framework for Cardiac MRI Segmentation and Disease Diagnosis", 
+            "authors":"Min Su Kim, Hong Bin Jung, Hye Won Lee, Ji Won Lee, Giltae Song, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"21st IEEE International Symposium on Biomedical Imaging (ISBI 2024), Greece",
+            "volueIssuePage":"",
+            "date":"2024"
+        }, {
+            "type":"conference",
+            "title":"Enhancing Multimodal Image-Based Classification of Alzheimer’s Disease with Surface Information", 
+            "authors":"Sy Dat Tran, Il Hae Yu, Hee Chang Lee, Jun Hee Kim, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"2024년 한국인공지능학회 하계학술대회 (**최우수논문상 수상)",
+            "volueIssuePage":"",
+            "date":"2024"
+        }, {
+            "type":"conference",
+            "title":"Multimodal Cortical-based Analysis with Vision Transformer for Alzheimer’s Disease Diagnosis", 
+            "authors":"Quan Duong, Seung Kyu Kim, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The Organization for Human Brain Mapping (OHBM)",
+            "volueIssuePage":"",
+            "date":"2023"
+        }, {
+            "type":"conference",
+            "title":"Multimodal Deep Learning Model for Early Diagnosis of Alzheimer’s Disease using ROI", 
+            "authors":"Seung Kyu Kim, Quan Duong, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The Organization for Human Brain Mapping (OHBM)",
+            "volueIssuePage":"",
+            "date":"2023"
+        }, {
+            "type":"conference",
+            "title":"Few-Shot Learning Approach of Atypical Parkinsonian Syndromes Using Brain Iron Patterns in SWI", 
+            "authors":"Won June Choi, Quan Duong, Jae-Hyeok Lee, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The Organization for Human Brain Mapping (OHBM)",
+            "volueIssuePage":"",
+            "date":"2023"
+        }, {
             "type":"journal",
             "title":"G-RMOS: GPU-accelerated Riemannian Metric Optimization on Surfaces", 
             "authors":"Jeong Won Jo, Jin Kyu Gahm",
@@ -180,33 +252,6 @@
             "academy":"Medical image analysis",
             "volueIssuePage":"Vol. 18, No. 1",
             "date":"2014. 1"
-        }, {
-            "type":"conference",
-            "title":"Multimodal Cortical-based Analysis with Vision Transformer for Alzheimer’s Disease Diagnosis", 
-            "authors":"Quan Duong, Seung Kyu Kim, Jin Kyu Gahm",
-            "link":"",
-            "pdf":"",
-            "academy":"The Organization for Human Brain Mapping (OHBM)",
-            "volueIssuePage":"",
-            "date":"2023"
-        }, {
-            "type":"conference",
-            "title":"Multimodal Deep Learning Model for Early Diagnosis of Alzheimer’s Disease using ROI", 
-            "authors":"Seung Kyu Kim, Quan Duong, Jin Kyu Gahm",
-            "link":"",
-            "pdf":"",
-            "academy":"The Organization for Human Brain Mapping (OHBM)",
-            "volueIssuePage":"",
-            "date":"2023"
-        }, {
-            "type":"conference",
-            "title":"Few-Shot Learning Approach of Atypical Parkinsonian Syndromes Using Brain Iron Patterns in SWI", 
-            "authors":"Won June Choi, Quan Duong, Jae-Hyeok Lee, Jin Kyu Gahm",
-            "link":"",
-            "pdf":"",
-            "academy":"The Organization for Human Brain Mapping (OHBM)",
-            "volueIssuePage":"",
-            "date":"2023"
         }, {
             "type":"conference",
             "title":"멀티모달 영상 기반 3D 딥러닝 모델을 활용한 알츠하이머성 치매 조기 진단", 
