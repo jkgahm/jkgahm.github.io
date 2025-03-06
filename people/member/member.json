@@ -8,27 +8,27 @@
             "email":"kmskie69@naver.com",
             "research":[
                 {
-                    "area":"심장영상 분석"
+                    "area":"심장 영상 분석"
                 }
             ]
         },{
             "name":"Heechang Lee",
             "imagePath":"people/member/Heechang_Lee.jpg",
-            "position":"M.S. Student",
+            "position":"Post Graduate Researcher",
             "email":"eeheechang@pusan.ac.kr",
             "research":[
                 {
-                    "area":"복부영상 분석"
+                    "area":"복부 영상 분석"
                 }
             ]
         }, {
             "name":"Hongbin Jeong",
             "imagePath":"people/member/Hongbin_jeong.jpg",
-            "position":"M.S. Student",
+            "position":"Post Graduate Researcher",
             "email":"dkvrnwjd@pusan.ac.kr",
             "research":[
                 {
-                    "area":"심장영상 분석"
+                    "area":"심장 영상 분석"
                 }
             ]
         }, {
@@ -41,7 +41,7 @@
                     "area":"치매 진단 딥러닝 모델 개발"
                 },
                 {
-                    "area":"심장영상 분석"
+                    "area":"심장 영상 분석"
                 }
             ]
         }, {
@@ -51,7 +51,7 @@
             "email":"yih0826@pusan.ac.kr",
             "research":[
                 {
-                    "area":"뇌영상 분석"
+                    "area":"뇌 영상 분석"
                 }
             ]
         }, {
@@ -77,12 +77,12 @@
             ]
         }, {
             "name":"MinSung Lee",
-            "imagePath":"",
+            "imagePath":"people/member/Minsung_Lee.jpg",
             "position":"M.S. student",
             "email":"min5311@pusan.ac.kr",
             "research":[
                 {
-                    "area":"의료영상분석 및 컴퓨터비전"
+                    "area":"심장 영상 분석"
                 }
             ]
         }, {
@@ -102,7 +102,7 @@
             "email":"diddablue@pusan.ac.kr",
             "research":[
                 {
-                    "area":"뇌영상 분석"
+                    "area":"뇌 영상 분석"
                 }
             ]
         }
