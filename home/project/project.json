@@ -230,24 +230,10 @@
                 }
             ]
         }, {
-            "projectTitle":"심장 관련 프로젝트",
+            "projectTitle":"확산텐서영상 기반의 심장 질환 분석 연구",
             "projectImagePath":"home/project/project6.png",
-            "projectDescription":"desc",
+            "projectDescription":"This research focuses on analyzing cardiac MRI and diffusion tensor imaging (DTI) to better understand myocardial tissue characteristics and pathological changes associated with cardiovascular diseases. By extracting spatial and temporal patterns from MRI data, the study aims to assess cardiac structure and function in detail, including ventricular volume, myocardial thickness, and contractility. DTI is further utilized to identify novel imaging biomarkers that reflect microstructural integrity and are potentially sensitive to disease progression. Building on these imaging-derived features, the research seeks to develop a model that generates clinical charts predicting a patient's health status and prognosis. This chart integrates information on cardiac tissue condition and pathological alterations, providing an interpretable, visual summary to support clinical decision-making and longitudinal patient monitoring.",
             "projectDetail": [
-                 {
-                    "type":"journal",
-                    "title": "t2",
-                    "detail": "d2",
-                    "Link": [
-                        {
-                            "text":"link",
-                            "href":""
-                        },{
-                            "text":"preprint",
-                            "href":""
-                        }
-                    ]
-                }
             ]
         }
     ]
