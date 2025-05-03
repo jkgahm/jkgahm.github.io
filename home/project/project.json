@@ -148,6 +148,26 @@
 
             ]
         }, {
+            "projectTitle":"담도암 관련 프로젝트",
+            "projectImagePath":"home/project/sizetest.png",
+            "projectDescription":"desc",
+            "projectDetail": [
+                {
+                    "type":"journal",
+                    "title": "t2",
+                    "detail": "d2",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                }
+            ]
+        }, {
             "projectTitle":"서피스 기반의 뇌장애 진단",
             "projectImagePath":"home/project/project4.png",
             "projectDescription":"The field of surface-based brain disorder diagnosis utilizes advanced imaging techniques in conjunction with machine learning (ML) and deep learning (DL) to analyze the cortical surface of the brain. This approach focuses on reconstructing and examining brain surfaces to detect structural changes associated with neurological conditions such as Alzheimer's disease and other dementias. ML and DL algorithms play a crucial role by identifying subtle patterns and anomalies with high precision, facilitating early detection, personalized treatment plans, and improved patient outcomes. This research is essential for advancing diagnostic accuracy and therapeutic strategies in neurological care.",
@@ -205,26 +225,6 @@
                         },{
                             "text":"preprint",
                             "href":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478896"
-                        }
-                    ]
-                }
-            ]
-        }, {
-            "projectTitle":"담도암 관련 프로젝트",
-            "projectImagePath":"home/project/project5.png",
-            "projectDescription":"desc",
-            "projectDetail": [
-                {
-                    "type":"journal",
-                    "title": "t2",
-                    "detail": "d2",
-                    "Link": [
-                        {
-                            "text":"link",
-                            "href":""
-                        },{
-                            "text":"preprint",
-                            "href":""
                         }
                     ]
                 }
