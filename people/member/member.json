@@ -68,7 +68,7 @@
         }, {
             "name":"Emil Kim",
             "imagePath":"people/member/Emil_Kim.jpg",
-            "position":"M.S./Ph.D. student",
+            "position":"Integrated M.S./Ph.D. student",
             "email":"emilkim01@pusan.ac.kr",
             "research":[
                 {
@@ -88,7 +88,7 @@
         }, {
             "name":"YoungHoon Lim",
             "imagePath":"people/member/YoungHoon_Lim.jpg",
-            "position":"Undergraduate student",
+            "position":"Integrated B.S./M.S. student",
             "email":"yh211100@pusan.ac.kr",
             "research":[
                 {
@@ -98,7 +98,7 @@
         }, {
             "name":"HyeJin Yoon",
             "imagePath":"people/member/Hyejin_Yoon.jpg",
-            "position":"Undergraduate student",
+            "position":"Integrated B.S./M.S. student",
             "email":"diddablue@pusan.ac.kr",
             "research":[
                 {
