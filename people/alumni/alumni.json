@@ -97,6 +97,17 @@
                 }
             ],
             "employment":"Heuron"
+        }, {
+            "name":"Hongbin Jeong",
+            "imagePath":"people/alumi/Hongbin_jeong.jpg",
+            "position":"Integrated B.S./M.S. Graduate '25",
+            "email":"dkvrnwjd@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"심장 영상 분석"
+                }
+            ],
+            "employment": "KUSRC"
         }
     ]
 }
