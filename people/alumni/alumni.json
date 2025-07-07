@@ -2,6 +2,17 @@
     "alumni": 
     [
         {
+            "name":"Hongbin Jeong",
+            "imagePath":"people/alumni/Hongbin_jeong.jpg",
+            "position":"Integrated B.S./M.S. Graduate '25",
+            "email":"dkvrnwjd@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"심장 영상 분석"
+                }
+            ],
+            "employment": "KUSRC"
+        }, {
             "name":"Jaemin Kang",
             "imagePath":"people/alumni/Jaemin_Kang.jpg",
             "position":"M.S. Graduate '24",
@@ -97,17 +108,6 @@
                 }
             ],
             "employment":"Heuron"
-        }, {
-            "name":"Hongbin Jeong",
-            "imagePath":"people/alumni/Hongbin_jeong.jpg",
-            "position":"Integrated B.S./M.S. Graduate '25",
-            "email":"dkvrnwjd@pusan.ac.kr",
-            "research":[
-                {
-                    "area":"심장 영상 분석"
-                }
-            ],
-            "employment": "KUSRC"
         }
     ]
 }
