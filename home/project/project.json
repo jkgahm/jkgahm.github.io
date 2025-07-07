@@ -148,6 +148,26 @@
 
             ]
         }, {
+            "projectTitle":"담도암 관련 프로젝트",
+            "projectImagePath":"home/project/sizetest.png",
+            "projectDescription":"desc",
+            "projectDetail": [
+                {
+                    "type":"journal",
+                    "title": "t2",
+                    "detail": "d2",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                }
+            ]
+        }, {
             "projectTitle":"서피스 기반의 뇌장애 진단",
             "projectImagePath":"home/project/project4.png",
             "projectDescription":"The field of surface-based brain disorder diagnosis utilizes advanced imaging techniques in conjunction with machine learning (ML) and deep learning (DL) to analyze the cortical surface of the brain. This approach focuses on reconstructing and examining brain surfaces to detect structural changes associated with neurological conditions such as Alzheimer's disease and other dementias. ML and DL algorithms play a crucial role by identifying subtle patterns and anomalies with high precision, facilitating early detection, personalized treatment plans, and improved patient outcomes. This research is essential for advancing diagnostic accuracy and therapeutic strategies in neurological care.",
@@ -210,44 +230,10 @@
                 }
             ]
         }, {
-            "projectTitle":"담도암 관련 프로젝트",
-            "projectImagePath":"home/project/project5.png",
-            "projectDescription":"desc",
-            "projectDetail": [
-                {
-                    "type":"journal",
-                    "title": "t2",
-                    "detail": "d2",
-                    "Link": [
-                        {
-                            "text":"link",
-                            "href":""
-                        },{
-                            "text":"preprint",
-                            "href":""
-                        }
-                    ]
-                }
-            ]
-        }, {
-            "projectTitle":"심장 관련 프로젝트",
+            "projectTitle":"확산텐서영상 기반의 심장 질환 분석 연구",
             "projectImagePath":"home/project/project6.png",
-            "projectDescription":"desc",
+            "projectDescription":"This research focuses on analyzing cardiac MRI and diffusion tensor imaging (DTI) to better understand myocardial tissue characteristics and pathological changes associated with cardiovascular diseases. By extracting spatial and temporal patterns from MRI data, the study aims to assess cardiac structure and function in detail, including ventricular volume, myocardial thickness, and contractility. DTI is further utilized to identify novel imaging biomarkers that reflect microstructural integrity and are potentially sensitive to disease progression. Building on these imaging-derived features, the research seeks to develop a model that generates clinical charts predicting a patient's health status and prognosis. This chart integrates information on cardiac tissue condition and pathological alterations, providing an interpretable, visual summary to support clinical decision-making and longitudinal patient monitoring.",
             "projectDetail": [
-                 {
-                    "type":"journal",
-                    "title": "t2",
-                    "detail": "d2",
-                    "Link": [
-                        {
-                            "text":"link",
-                            "href":""
-                        },{
-                            "text":"preprint",
-                            "href":""
-                        }
-                    ]
-                }
             ]
         }
     ]
