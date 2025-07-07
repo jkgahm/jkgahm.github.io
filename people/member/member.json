@@ -22,16 +22,6 @@
                 }
             ]
         }, {
-            "name":"Hongbin Jeong",
-            "imagePath":"people/member/Hongbin_jeong.jpg",
-            "position":"Post Graduate Researcher",
-            "email":"dkvrnwjd@pusan.ac.kr",
-            "research":[
-                {
-                    "area":"심장 영상 분석"
-                }
-            ]
-        }, {
             "name":"Sy Dat Tran",
             "imagePath":"people/member/Sy_Dat_Tran.jpg",
             "position":"M.S. Student",
@@ -68,7 +58,7 @@
         }, {
             "name":"Emil Kim",
             "imagePath":"people/member/Emil_Kim.jpg",
-            "position":"Integrated M.S./Ph.D. student",
+            "position":"M.S. student",
             "email":"emilkim01@pusan.ac.kr",
             "research":[
                 {
@@ -88,7 +78,7 @@
         }, {
             "name":"YoungHoon Lim",
             "imagePath":"people/member/YoungHoon_Lim.jpg",
-            "position":"Integrated B.S./M.S. student",
+            "position":"M.S. student",
             "email":"yh211100@pusan.ac.kr",
             "research":[
                 {
@@ -98,7 +88,7 @@
         }, {
             "name":"HyeJin Yoon",
             "imagePath":"people/member/Hyejin_Yoon.jpg",
-            "position":"Integrated B.S./M.S. student",
+            "position":"Undergraduate student",
             "email":"diddablue@pusan.ac.kr",
             "research":[
                 {
