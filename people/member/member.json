@@ -2,39 +2,6 @@
     "member": 
     [
         {
-            "name":"Minsu Kim",
-            "imagePath":"people/member/Minsu_Kim.jpg",
-            "position":"Post Graduate Researcher",
-            "email":"kmskie69@naver.com",
-            "research":[
-                {
-                    "area":"심장 영상 분석"
-                }
-            ]
-        },{
-            "name":"Heechang Lee",
-            "imagePath":"people/member/Heechang_Lee.jpg",
-            "position":"Post Graduate Researcher",
-            "email":"eeheechang@pusan.ac.kr",
-            "research":[
-                {
-                    "area":"복부 영상 분석"
-                }
-            ]
-        }, {
-            "name":"Sy Dat Tran",
-            "imagePath":"people/member/Sy_Dat_Tran.jpg",
-            "position":"M.S. Student",
-            "email":"sydat2000@pusan.ac.kr",
-            "research":[
-                {
-                    "area":"치매 진단 딥러닝 모델 개발"
-                },
-                {
-                    "area":"심장 영상 분석"
-                }
-            ]
-        }, {
             "name":"Ilhae Yu",
             "imagePath":"people/member/Ilhae_Yu.jpg",
             "position":"M.S. student",
@@ -56,9 +23,22 @@
 
             ]
         }, {
+            "name":"Sy Dat Tran",
+            "imagePath":"people/member/Sy_Dat_Tran.jpg",
+            "position":"M.S. Student",
+            "email":"sydat2000@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"치매 진단 딥러닝 모델 개발"
+                },
+                {
+                    "area":"심장 영상 분석"
+                }
+            ]
+        }, {
             "name":"Emil Kim",
             "imagePath":"people/member/Emil_Kim.jpg",
-            "position":"M.S. student",
+            "position":"Integrated M.S./Ph.D. student",
             "email":"emilkim01@pusan.ac.kr",
             "research":[
                 {
@@ -93,6 +73,26 @@
             "research":[
                 {
                     "area":"뇌 영상 분석"
+                }
+            ]
+        },{
+            "name":"Minsu Kim",
+            "imagePath":"people/member/Minsu_Kim.jpg",
+            "position":"Post Graduate Researcher",
+            "email":"kmskie69@naver.com",
+            "research":[
+                {
+                    "area":"심장 영상 분석"
+                }
+            ]
+        },{
+            "name":"Heechang Lee",
+            "imagePath":"people/member/Heechang_Lee.jpg",
+            "position":"Post Graduate Researcher",
+            "email":"eeheechang@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"복부 영상 분석"
                 }
             ]
         }
