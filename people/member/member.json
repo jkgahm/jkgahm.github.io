@@ -23,6 +23,19 @@
 
             ]
         }, {
+            "name":"Sy Dat Tran",
+            "imagePath":"people/member/Sy_Dat_Tran.jpg",
+            "position":"M.S. Student",
+            "email":"sydat2000@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"치매 진단 딥러닝 모델 개발"
+                },
+                {
+                    "area":"심장 영상 분석"
+                }
+            ]
+        }, {
             "name":"Emil Kim",
             "imagePath":"people/member/Emil_Kim.jpg",
             "position":"Integrated M.S./Ph.D. student",

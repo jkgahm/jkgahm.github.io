@@ -235,6 +235,12 @@
             "projectDescription":"This research focuses on analyzing cardiac MRI and diffusion tensor imaging (DTI) to better understand myocardial tissue characteristics and pathological changes associated with cardiovascular diseases. By extracting spatial and temporal patterns from MRI data, the study aims to assess cardiac structure and function in detail, including ventricular volume, myocardial thickness, and contractility. DTI is further utilized to identify novel imaging biomarkers that reflect microstructural integrity and are potentially sensitive to disease progression. Building on these imaging-derived features, the research seeks to develop a model that generates clinical charts predicting a patient's health status and prognosis. This chart integrates information on cardiac tissue condition and pathological alterations, providing an interpretable, visual summary to support clinical decision-making and longitudinal patient monitoring.",
             "projectDetail": [
             ]
+        }, {
+            "projectTitle":"비정형 파킨슨병 분류를 위한 하이퍼볼릭 퓨샷 대조 학습",
+            "projectImagePath":"home/project/project7.png",
+            "projectDescription":"This research presents a novel hyperbolic few-shot contrastive learning framework designed to effectively differentiate between subtypes of atypical Parkinsonian syndromes (APS), such as multiple system atrophy (MSA) and progressive supranuclear palsy (PSP). Recognizing the scarcity of large, well-labeled datasets in rare neurological disorders, this study adopts a few-shot learning paradigm that requires only a small number of labeled examples to achieve strong classification performance. The use of a hyperbolic embedding space, which is particularly well-suited for capturing hierarchical structures in clinical data, contributes to producing more stable and generalizable results. By mapping patient-level radiomic features—derived from structural MRI modalities like T1-weighted and susceptibility-weighted imaging—into this space, the model preserves latent relationships between patients and enhances the semantic separation.",
+            "projectDetail": [
+            ]
         }
     ]
 }
