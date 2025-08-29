@@ -2,6 +2,20 @@
     "alumni": 
     [
         {
+            "name":"Sy Dat Tran",
+            "imagePath":"people/alumni/Sy_Dat_Tran.jpg",
+            "position":"M.S. Graduate '25",
+            "email":"sydat2000@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"치매 진단 딥러닝 모델 개발"
+                },
+                {
+                    "area":"심장 영상 분석"
+                }
+            ],
+            "employment":"Samsung SDS vietnam"
+        },{
             "name":"Hongbin Jeong",
             "imagePath":"people/alumni/Hongbin_jeong.jpg",
             "position":"Integrated B.S./M.S. Graduate '25",
