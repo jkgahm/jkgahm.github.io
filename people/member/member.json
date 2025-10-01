@@ -63,6 +63,16 @@
                 }
             ]
         },{
+            "name":"Hakjin Lee",
+            "imagePath":"people/member/Hakjin_Lee.jpg",
+            "position":"Undergraduate student",
+            "email":"dlgkrwls430@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"의료영상분석 및 컴퓨터비전"
+                }
+            ]
+        },{
             "name":"Minsu Kim",
             "imagePath":"people/member/Minsu_Kim.jpg",
             "position":"Post Graduate Researcher",
