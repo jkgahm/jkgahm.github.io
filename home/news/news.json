@@ -15,6 +15,12 @@
 
     "news": [
         {
+            "imagePath":"home/news/2025인공지능학회수상.png",
+            "title":"2025 한국인공지능학회 추계학술대회 발표 및 우수논문상 수상",
+            "date":"2025.11.20",
+            "text":"2025년 11월 20일 서울에서 개최된 한국인공지능학회 추계학술대회에서 김에밀 연구원이 성공적으로 논문 발표를 마쳤으며, 우수논문상을 수상하는 영예를 안았습니다. 축하합니다!",
+            "link":""
+        },{
             "imagePath":"home/news/WACV.jpg",
             "title":"2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 발표 확정!",
             "date":"2026.03.06",
