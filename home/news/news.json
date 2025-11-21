@@ -21,10 +21,10 @@
             "text":"2025년 11월 20일 서울에서 개최된 한국인공지능학회 추계학술대회에서 김에밀 연구원이 성공적으로 논문 발표를 마쳤으며, 우수논문상을 수상하는 영예를 안았습니다. 축하합니다!",
             "link":""
         },{
-            "imagePath":"home/news/WACV.jpg",
+            "imagePath":"home/news/WACV.png",
             "title":"컴퓨터 비전 최상위 학회 WACV 2026 발표 확정 발표 확정!",
             "date":"2026.03.06",
-            "text":"짠시닷 연구원이 컴퓨터 비전 분야의 최고 권위 국제 학회 중 하나인 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026에서 논문 발표를 확정했다는 기쁜 소식을 전합니다. 2026년 미국 애리조나 주에서 개최되는 이번 학회에서 'Hymavi : A Hybrid Mamba-Attention Network in Multi-View Framework for Volumetric Medical Image Segmentation'이라는 제목의 논문을 발표할 예정입니다. 이번 논문 채택은 연구실이 의료 영상 분할을 위한 하이브리드 네트워크 분야에서 혁신적인 연구 성과를 거두었음을 입증하는 쾌거입니다. 다시한번 짠시닷 연구원의 성과 진심으로 축하합니다!",
+            "text":"우리 연구실의 짠시닷 연구원이 컴퓨터 비전 분야의 권위있는 국제 학회 중 하나인 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026에서 논문 발표를 확정했습니다. WACV는 IEEE와 CVF가 공동 주관하는 권위 있는 학회로, 연구 영향력 평가에서 상위 국제 학회 그룹(CORE Rank A)로 분류될 만큼 위상을 국제적으로 인정받고 있습니다. 이번 채택은 연구실의 혁신적인 연구 성과가 국제적으로 인정받았음을 의미합니다. 짠시닷 연구원이 발표할 논문은 'Hymavi : A Hybrid Mamba-Attention Network in Multi-View Framework for Volumetric Medical Image Segmentation'이며, 3차원 의료 영상 분할의 정확도와 효율성을 혁신적으로 개선하는 새로운 방법을 제안합니다. 이는 기존의 강력한 모델들(SegMamba, nnFormer 등)보다 일관되게 우수한 분할 정확도를 달성했고, 또한 Mamba 기반 모델인 SegMamba 대비 훨씬 적은 메모리를 사용하며 더 빠른 추론 속도를 달성하여 실용적인 효율성도 입증했습니다.",
             "link":""
         },{
             "imagePath":"home/news/2025_학생주도연구_장려상.jpg",
