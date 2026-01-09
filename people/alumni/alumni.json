@@ -2,6 +2,17 @@
     "alumni": 
     [
         {
+            "name":"Heechang Lee",
+            "imagePath":"people/alumni/Heechang_Lee.jpg",
+            "position":"M.S. Graduate '25",
+            "email":"eeheechang@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"복부 영상 분석"
+                }
+            ],
+            "employment":"Enscape"
+        },{
             "name":"Sy Dat Tran",
             "imagePath":"people/alumni/Sy_Dat_Tran.jpg",
             "position":"M.S. Graduate '25",

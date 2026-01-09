@@ -82,16 +82,6 @@
                     "area":"심장 영상 분석"
                 }
             ]
-        },{
-            "name":"Heechang Lee",
-            "imagePath":"people/member/Heechang_Lee.jpg",
-            "position":"Post Graduate Researcher",
-            "email":"eeheechang@pusan.ac.kr",
-            "research":[
-                {
-                    "area":"복부 영상 분석"
-                }
-            ]
         }
     ]
 }
