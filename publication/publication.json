@@ -1,6 +1,25 @@
 {
     "publications":[
         {
+            "type":"conference",
+            "title":"Multi-Scale Attention Network for EEG-based Seizure Detection", 
+            "authors":"Emil Kim,Yerassyl Kenes, Sy Dat Tran, Jin Kyu Gahm",
+            "link":"https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318371",
+            "pdf":"https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12318371&width=2560",
+            "academy":"Korean Institute of Information Scientists and Engineers",
+            "volueIssuePage":"937 - 939 (3page)",
+            "date":"2025"
+        },{
+            "type":"conference",
+            "title":"Improving LLM-based Radiology Report Generation using Image-based Expertise Diagnosis Model Knowledge", 
+            "authors":"Il Hae Yu, Jun Hee Kim, Min Sung Lee, Young Hoon Lim, Hye Jin Yun, Jin Kyu Gahm",
+            "link":"https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318372",
+            "pdf":"https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12318372&width=2560",
+            "academy":"Korean Institute of Information Scientists and Engineers",
+            "volueIssuePage":"940 - 942 (3page)",
+            "date":"2025"
+        },
+        {
             "type":"journal",
             "title":"Multimodal surface-based transformer model for early diagnosis of Alzheimer’s disease", 
             "authors":"Quan Anh Duong, Sy Dat Tran, Jin Kyu Gahm",
@@ -9,6 +28,24 @@
             "academy":"Scientific Reports",
             "volueIssuePage":"Vol. 15, 5787",
             "date":"2025"
+        },{
+            "type":"journal",
+            "title":"Cholangiocarcinoma Diagnosis Using Supervised Contrastive Learning Based on Multi-phase Contrast-enhanced CT Imaging", 
+            "authors":"Hee Chang Lee, Dong Uk Kim, Jin Kyu Gahm",
+            "link":"https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042054",
+            "pdf":"",
+            "academy":"Korean Institute of Information Scientists and Engineers",
+            "volueIssuePage":"758 - 760 (3page)",
+            "date":"2025"
+        },{
+            "type":"journal",
+            "title":"Improving Multi-Domain Cardiac MRI Segmentation with Domain Generalization Techniques in nnU-Net", 
+            "authors":"Hong Bin Jung, Min Su Kim, Jin Kyu Gahm",
+            "link":"https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042050",
+            "pdf":"",
+            "academy":"Korean Institute of Information Scientists and Engineers",
+            "volueIssuePage":"746 - 748 (3page)",
+            "date":"2024"
         },
         {
             "type":"journal",
