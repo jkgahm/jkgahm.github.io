@@ -19,4 +19,28 @@ header{background-color: black !important;color:white !important;}
   }
 
 </style>
-</head><body><div id="root"></div></body></html>
+</head><body><div id="root"></div>
+  <script>
+  // 1초(1000ms)마다 화면을 확인해서 색깔을 입히는 코드
+  setInterval(function() {
+    var badges = document.querySelectorAll('#publication-section .mantine-Badge-root');
+    badges.forEach(function(badge) {
+      var text = badge.innerText.toUpperCase();
+      if (text.includes("JOURNAL")) {
+        // [JOURNAL]인 경우: 노란색 배경 + 검은 글씨
+        badge.style.backgroundColor = "#FFD700"; 
+        badge.style.color = "#000000";
+        badge.style.border = "none";
+      } 
+      else if (text.includes("CONFERENCE")) {
+        badge.style.backgroundColor = "#FF8C00"; 
+        badge.style.color = "#ffffff"; 
+        badge.style.border = "none";
+      }
+    });
+
+  }, 500);
+</script>
+</body>
+</html>
+</body></html>
