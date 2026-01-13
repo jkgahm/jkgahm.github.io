@@ -18,27 +18,32 @@ header{background-color: black !important;color:white !important;}
     background-color: gray !important; 
     color: #ffffff !important; 
   }
-
 </style>
 </head><body><div id="root"></div>
-  <script>
+<script>
   setInterval(function() {
     var badges = document.querySelectorAll('#publication-section .mantine-Badge-root');
-    badges.forEach(function(badge) {
-      var text = badge.innerText.toUpperCase();
+      badges.forEach(function(badge) {
+      var text = badge.innerText.toUpperCase().trim();
       if (text.includes("JOURNAL")) {
-        badge.style.backgroundColor = "#000000"; 
-        badge.style.color = "#ffffff";
-        badge.style.border = "none";
+        badge.style.setProperty('background-color', '#000000', 'important'); // 노란색
+        badge.style.setProperty('color', '#FFFFFF', 'important');           // 검은 글씨
+        badge.style.setProperty('border', 'none', 'important');
       } 
       else if (text.includes("CONFERENCE")) {
-        badge.style.backgroundColor = "#333333"; 
-        badge.style.color = "#ffffff"; 
-        badge.style.border = "none";
+        // [강제 적용]
+        badge.style.setProperty('background-color', '#333333', 'important'); // 주황색
+        badge.style.setProperty('color', '#ffffff', 'important');           // 흰 글씨
+        badge.style.setProperty('border', 'none', 'important');
+      }
+      else if (text.includes("PATENT")) {
+        // (혹시 몰라 추가) 특허는 초록색
+        badge.style.setProperty('background-color', '#222222', 'important'); 
+        badge.style.setProperty('color', '#ffffff', 'important');
       }
     });
 
-  }, 500);
+  }, 500); // 0.5초마다 실행
 </script>
 </body>
 </html>
