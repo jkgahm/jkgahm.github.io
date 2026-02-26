@@ -136,6 +136,10 @@
 
 "lineNews":[
         {
+            "date": "2026.02.20",
+            "title": "🎓 GRADUATION",
+            "text": "Junhee and Ilhae have graduated from their M.S. program. Congratulations!"
+        },{
             "date":"2025.09.10",
             "title":"🤗 WELCOME",
             "text":"Hakjin joined our lab as an undergraduate student!"
@@ -179,15 +183,6 @@
             "date":"2024.06.25",
             "title":"🚀 OHBM SUBMISSION",
             "text":"Dat successfully submitted a paper to the OHBM conference"
-        },{
-            "date":"2024.03.02",
-            "title":"🤗 WELCOME",
-            "text":"Ilhae and Junhee has been enter into our M.S. program!"
-        },
-        {
-            "date":"2024.02.18",
-            "title":"🎓 GRADUATTION",
-            "text":"Jaemin and Quan have graduated from their M.S. Congraturations!"
         }
 
     ]

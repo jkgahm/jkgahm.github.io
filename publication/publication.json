@@ -29,7 +29,7 @@
             "volueIssuePage":"Vol. 15, 5787",
             "date":"2025"
         },{
-            "type":"conference",
+            "type":"journal",
             "title":"Cholangiocarcinoma Diagnosis Using Supervised Contrastive Learning Based on Multi-phase Contrast-enhanced CT Imaging", 
             "authors":"Hee Chang Lee, Dong Uk Kim, Jin Kyu Gahm",
             "link":"https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042054",
@@ -38,7 +38,7 @@
             "volueIssuePage":"758 - 760 (3page)",
             "date":"2025"
         },{
-            "type":"conference",
+            "type":"journal",
             "title":"Improving Multi-Domain Cardiac MRI Segmentation with Domain Generalization Techniques in nnU-Net", 
             "authors":"Hong Bin Jung, Min Su Kim, Jin Kyu Gahm",
             "link":"https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042050",
