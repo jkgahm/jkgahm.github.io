@@ -1,7 +1,19 @@
 {
     "alumni": 
     [
+        
         {
+            "name":"Ilhae Yu",
+            "imagePath":"people/alumni/Ilhae_Yu.jpg",
+            "position":"M.S. student",
+            "email":"yih0826@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"뇌 영상 분석"
+                }
+            ],
+            "employment":"UNIST"
+        },  {
             "name":"Heechang Lee",
             "imagePath":"people/alumni/Heechang_Lee.jpg",
             "position":"M.S. Graduate '25",
