@@ -2,6 +2,16 @@
     "publications":[
         {
             "type":"conference",
+            "title":"Hymavi : A Hybrid Mamba-Attention Network in Multi-View Framework for Volumetric Medical Image Segmentation", 
+            "authors":"Sy Dat Tran, Jin Kyu Gahm",
+            "link":"https://wacv.thecvf.com/Conferences/2026/AcceptedPapers",
+            "pdf":"",
+            "academy":"The IEEE/CVF Winter Conference on Applications of Computer Vision 2026",
+            "volueIssuePage":"",
+            "date":"2026"
+        },
+        {
+            "type":"conference",
             "title":"Multi-Scale Attention Network for EEG-based Seizure Detection", 
             "authors":"Emil Kim,Yerassyl Kenes, Sy Dat Tran, Jin Kyu Gahm",
             "link":"https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318371",
