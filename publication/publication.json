@@ -6,14 +6,14 @@
             "authors":"Sy Dat Tran, Jin Kyu Gahm",
             "link":"https://wacv.thecvf.com/Conferences/2026/AcceptedPapers",
             "pdf":"",
-            "academy":"The IEEE/CVF Winter Conference on Applications of Computer Vision 2026",
+            "academy":"The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026",
             "volueIssuePage":"",
             "date":"2026"
         },
         {
             "type":"conference",
             "title":"Multi-Scale Attention Network for EEG-based Seizure Detection", 
-            "authors":"Emil Kim,Yerassyl Kenes, Sy Dat Tran, Jin Kyu Gahm",
+            "authors":"Emil Kim, Yerassyl Kenes, Sy Dat Tran, Jin Kyu Gahm",
             "link":"https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318371",
             "pdf":"https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12318371&width=2560",
             "academy":"Korean Institute of Information Scientists and Engineers",
