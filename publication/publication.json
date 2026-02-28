@@ -2,13 +2,93 @@
     "publications":[
         {
             "type":"conference",
+            "title":"CGM-EEG: Cross-Gated Mamba for Spatio-Temporal EEG Representation Learning", 
+            "authors":"Emil Kim, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The IEEE International Symposium on Biomedical Imaging (ISBI) 26",
+            "volueIssuePage":"",
+            "date":"2026"
+        },
+        {
+            "type":"conference",
+            "title":"Enhancing Deep Gray Matter Contrast in Atypical Parkinsonism via SWI-Aware Fusion", 
+            "authors":"YoungHoon Lim, Jae Hyeok Lee, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The IEEE International Symposium on Biomedical Imaging (ISBI) 26",
+            "volueIssuePage":"",
+            "date":"2026"
+        },
+        {
+            "type":"conference",
+            "title":"CoSMa: Contrastive Learning with Surface Mamba for Infant Brain Age Prediction", 
+            "authors":"Hye Jin Yoon, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"The IEEE International Symposium on Biomedical Imaging (ISBI) 26",
+            "volueIssuePage":"",
+            "date":"2026"
+        },
+        {
+            "type":"conference",
             "title":"Hymavi : A Hybrid Mamba-Attention Network in Multi-View Framework for Volumetric Medical Image Segmentation", 
             "authors":"Sy Dat Tran, Jin Kyu Gahm",
             "link":"https://wacv.thecvf.com/Conferences/2026/AcceptedPapers",
             "pdf":"",
-            "academy":"The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+            "academy":"The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 26",
             "volueIssuePage":"",
             "date":"2026"
+        },
+        {
+            "type":"conference",
+            "title":"HSST-EEG: A Hybrid State-Space and Transformer Architecture for EEG Decoding", 
+            "authors":"Emil Kim, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"2025 한국인공지능학회 추계학술대회 (*우수논문상 수상)",
+            "volueIssuePage":"",
+            "date":"2025"
+        },
+        {
+            "type":"conference",
+            "title":"심장 cine MRI 단면 해상도 개선을 위한 종단면 가이드 디퓨전 모델 연구", 
+            "authors":"Jun Hee Kim, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"KSC2025",
+            "volueIssuePage":"",
+            "date":"2025"
+        },
+        {
+            "type":"conference",
+            "title":"Adaptive Cortical Surface Representation with Hybrid Attention-Mamba Global Modeling", 
+            "authors":"Sy Dat Tran, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"2025 한국인공지능학회 하계학술대회",
+            "volueIssuePage":"",
+            "date":"2025"
+        },
+        {
+            "type":"conference",
+            "title":"A Hybrid Mamba-Attention Network in Multi-View Framework for Volumetric Medical Image Segmentation", 
+            "authors":"Sy Dat Tran, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"2025 한국인공지능학회 하계학술대회",
+            "volueIssuePage":"",
+            "date":"2025"
+        },
+        {
+            "type":"conference",
+            "title":"Interpretable Deep Learning for SPECT-Based Parkinson’s Disease Diagnosis via Continuous Concept Modeling", 
+            "authors":"Il Hae Yu, Jun Hee Kim, Jin Kyu Gahm",
+            "link":"",
+            "pdf":"",
+            "academy":"2025 한국인공지능학회 하계학술대회",
+            "volueIssuePage":"",
+            "date":"2025"
         },
         {
             "type":"conference",
