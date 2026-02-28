@@ -8,7 +8,7 @@
             "email":"emilkim01@pusan.ac.kr",
             "research":[
                 {
-                    "area":"의료영상분석 및 컴퓨터비전"
+                    "area":"생체신호/의료영상분석 및 컴퓨터비전"
                 }
             ]
         }, {
@@ -54,32 +54,11 @@
         },{
             "name":"Hakjin Lee",
             "imagePath":"people/member/Hakjin_Lee.jpg",
-            "position":"Undergraduate student",
+            "position":"Integrated B.S./M.S. student",
             "email":"dlgkrwls430@pusan.ac.kr",
             "research":[
                 {
                     "area":"의료영상분석 및 컴퓨터비전"
-                }
-            ]
-        },{
-            "name":"JunHee Kim",
-            "imagePath":"people/member/junhee_kim.png",
-            "position":"Post Graduate Researcher",
-            "email":"kimjun5106@gmail.com",
-            "research":[
-                {
-                    "area":"자기공명영상 초해상화"
-                }
-
-            ]
-        },{
-            "name":"Minsu Kim",
-            "imagePath":"people/member/Minsu_Kim.jpg",
-            "position":"Post Graduate Researcher",
-            "email":"kmskie96@pusan.ac.kr",
-            "research":[
-                {
-                    "area":"심장 영상 분석"
                 }
             ]
         }
