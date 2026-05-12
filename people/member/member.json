@@ -8,7 +8,7 @@
             "email":"emilkim01@pusan.ac.kr",
             "research":[
                 {
-                    "area":"생체신호/의료영상분석 및 컴퓨터비전"
+                    "area":"Biosignal, Medical Image Analysis & Computer Vision"
                 }
             ]
         }, {
@@ -18,7 +18,7 @@
             "email":"min5311@pusan.ac.kr",
             "research":[
                 {
-                    "area":"심장 영상 분석"
+                    "area":"Cardiac Image Processing"
                 }
             ]
         }, {
@@ -28,7 +28,7 @@
             "email":"yh211100@pusan.ac.kr",
             "research":[
                 {
-                    "area":"의료영상분석 및 컴퓨터비전"
+                    "area":"Medical Image Analysis & Computer Vision"
                 }
             ]
         }, {
@@ -38,7 +38,7 @@
             "email":"diddablue@pusan.ac.kr",
             "research":[
                 {
-                    "area":"뇌 영상 분석"
+                    "area":"Neuroimaging Analysis & Computer Vision"
                 }
             ]
         },{
@@ -48,7 +48,7 @@
             "email":"dngus791@pusan.ac.kr",
             "research":[
                 {
-                    "area":"의료영상분석 및 컴퓨터비전"
+                    "area":"Medical Image Analysis & Computer Vision"
                 }
             ]
         },{
@@ -58,7 +58,17 @@
             "email":"dlgkrwls430@pusan.ac.kr",
             "research":[
                 {
-                    "area":"의료영상분석 및 컴퓨터비전"
+                    "area":"Medical Image Analysis & Computer Vision"
+                }
+            ]
+        }, {
+            "name":"Donghyun Kim",
+            "imagePath":"people/member/Donghyun_kim.jpg",
+            "position":"Undergraduate student",
+            "email":"miggule2@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"Medical Image Analysis"
                 }
             ]
         }
