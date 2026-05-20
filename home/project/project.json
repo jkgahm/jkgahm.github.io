@@ -7,7 +7,7 @@
     "project": [
         {
             "projectTitle":"MRI 영상개선을 위한 텐서 기반 학습",
-            "projectImagePath":"home/project/project1.png",
+            "projectImagePath":"home/project/tensor.PNG",
             "projectDescription":"The field of super-resolution (SR) for 3D brain MRI focuses on improving the resolution of MRI images to provide more detailed and accurate representations of brain structures. High-resolution MRI is essential for precise diagnostic and research purposes, enabling better visualization of anatomical details. This research area addresses the limitations of hardware and long acquisition times by developing algorithms that enhance low-resolution images. Techniques like machine learning and advanced filter learning are employed to reconstruct high-quality images, particularly enhancing boundary details critical for accurate surface-based analysis and medical applications.",
             "projectDetail": [
                 {
@@ -55,7 +55,7 @@
             ]
         }, {
             "projectTitle":"라디오믹스 기반 비정형 파킨슨병 진단",
-            "projectImagePath":"home/project/project2.png",
+            "projectImagePath":"home/project/radiomics.PNG",
             "projectDescription":"The field of medical imaging analysis using machine learning (ML) and deep learning (DL) is crucial for diagnosing atypical Parkinsonian disorders. This research area leverages advanced imaging techniques and computational models to identify and analyze subtle changes in brain structures that are indicative of these disorders. Radiomics features, which are quantitative descriptors extracted from medical images, play a significant role in this process. These features capture the texture, shape, and intensity patterns in the images, providing detailed information that, when combined with ML and DL algorithms, enhances the accuracy of diagnosis and helps in distinguishing between different types of Parkinsonian syndromes. This approach improves early detection and personalized treatment planning, making it a vital area of study in neuroimaging and neurological research.",
             "projectDetail": [
                 {
@@ -115,7 +115,7 @@
             ]
         }, {
             "projectTitle":"치매진단을 위한 서피스정합 가속화",
-            "projectImagePath":"home/project/project3.png",
+            "projectImagePath":"home/project/accelerating.png",
             "projectDescription":"Research on accelerating surface registration methods for brain analysis is vital for improving the diagnosis of neurological conditions such as dementia. Surface registration aligns brain images to a common template, enabling detailed comparisons of cortical structures across individuals. By speeding up this process through advanced algorithms and computational techniques, more accurate and efficient analysis of brain morphology is possible. This accelerated approach facilitates early detection and monitoring of dementia by highlighting subtle structural changes, ultimately aiding in timely and targeted intervention strategies.",
             "projectDetail": [
                 {
@@ -148,14 +148,28 @@
 
             ]
         }, {
-            "projectTitle":"담도암 관련 프로젝트",
-            "projectImagePath":"home/project/sizetest.png",
-            "projectDescription":"desc",
+            "projectTitle":"EEG Analysis",
+            "projectImagePath":"home/project/eeg.PNG",
+            "projectDescription":"Accurate EEG decoding is important for clinical diagnosis and brain-computer interface applications. This study aims to learn effective spatio-temporal representations from EEG signals by jointly modeling spatial relationships across electrodes and temporal patterns over time. By improving the interaction between spatial and temporal features, the proposed approach supports more efficient and reliable EEG analysis.",
             "projectDetail": [
                 {
-                    "type":"journal",
-                    "title": "t2",
-                    "detail": "d2",
+                    "type":"conference",
+                    "title": "HSST-EEG: A Hybrid State-Space and Transformer Architecture for EEG Decoding",
+                    "detail": "Emil Kim, Jin Kyu Gahm. 한국인공지능학회 추계학술대회(*우수논문상 수상), 2025",
+                    "Link":[    
+                    {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                },
+                {
+                    "type":"conference",
+                    "title": "CGM-EEG: Cross-Gated Mamba for Spatio-Temporal EEG Representation Learning",
+                    "detail": "Emil Kim, Jin Kyu Gahm. IEEE International Symposium on Biomedical Imaging (ISBI), 2026",
                     "Link": [
                         {
                             "text":"link",
@@ -169,7 +183,7 @@
             ]
         }, {
             "projectTitle":"서피스 기반의 뇌장애 진단",
-            "projectImagePath":"home/project/project4.png",
+            "projectImagePath":"home/project/surface.PNG",
             "projectDescription":"The field of surface-based brain disorder diagnosis utilizes advanced imaging techniques in conjunction with machine learning (ML) and deep learning (DL) to analyze the cortical surface of the brain. This approach focuses on reconstructing and examining brain surfaces to detect structural changes associated with neurological conditions such as Alzheimer's disease and other dementias. ML and DL algorithms play a crucial role by identifying subtle patterns and anomalies with high precision, facilitating early detection, personalized treatment plans, and improved patient outcomes. This research is essential for advancing diagnostic accuracy and therapeutic strategies in neurological care.",
             "projectDetail": [
                 {
@@ -231,13 +245,13 @@
             ]
         }, {
             "projectTitle":"확산텐서영상 기반의 심장 질환 분석 연구",
-            "projectImagePath":"home/project/project6.png",
+            "projectImagePath":"home/project/cardiac.png",
             "projectDescription":"This research focuses on analyzing cardiac MRI and diffusion tensor imaging (DTI) to better understand myocardial tissue characteristics and pathological changes associated with cardiovascular diseases. By extracting spatial and temporal patterns from MRI data, the study aims to assess cardiac structure and function in detail, including ventricular volume, myocardial thickness, and contractility. DTI is further utilized to identify novel imaging biomarkers that reflect microstructural integrity and are potentially sensitive to disease progression. Building on these imaging-derived features, the research seeks to develop a model that generates clinical charts predicting a patient's health status and prognosis. This chart integrates information on cardiac tissue condition and pathological alterations, providing an interpretable, visual summary to support clinical decision-making and longitudinal patient monitoring.",
             "projectDetail": [
             ]
         }, {
             "projectTitle":"비정형 파킨슨병 분류를 위한 하이퍼볼릭 퓨샷 대조 학습",
-            "projectImagePath":"home/project/project7.png",
+            "projectImagePath":"home/project/parkinson.png",
             "projectDescription":"This research presents a novel hyperbolic few-shot contrastive learning framework designed to effectively differentiate between subtypes of atypical Parkinsonian syndromes (APS), such as multiple system atrophy (MSA) and progressive supranuclear palsy (PSP). Recognizing the scarcity of large, well-labeled datasets in rare neurological disorders, this study adopts a few-shot learning paradigm that requires only a small number of labeled examples to achieve strong classification performance. The use of a hyperbolic embedding space, which is particularly well-suited for capturing hierarchical structures in clinical data, contributes to producing more stable and generalizable results. By mapping patient-level radiomic features—derived from structural MRI modalities like T1-weighted and susceptibility-weighted imaging—into this space, the model preserves latent relationships between patients and enhances the semantic separation.",
             "projectDetail": [
             ]
