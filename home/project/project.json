@@ -241,6 +241,48 @@
                             "href":"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478896"
                         }
                     ]
+                },
+                {
+                    "type":"conference",
+                    "title": "Surface-based Middle-Fusion Attention Model for Early Alzheimer's Disease Diagnosis",
+                    "detail": "Quan Anh Duong, Sy Dat Tran, Jin Kyu Gahm. The Organization for Human Brain Mapping (OHBM), 2024",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                },
+                {
+                    "type":"conference",
+                    "title": "Multimodal surface-based transformer model for early diagnosis of Alzheimer’s disease",
+                    "detail": "Quan Anh Duong, Sy Dat Tran, Jin Kyu Gahm. Scientific Reports, Vol. 15, 5787, 2025",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":"https://www.nature.com/articles/s41598-025-90115-y"
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                },
+                {
+                    "type":"conference",
+                    "title": "CoSMa: Contrastive Learning with Surface Mamba for Infant Brain Age Prediction",
+                    "detail": "Hye Jin Yoon, Jin Kyu Gahm. The IEEE International Symposium on Biomedical Imaging (ISBI) 26, 2026",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
                 }
             ]
         }, {
@@ -248,12 +290,96 @@
             "projectImagePath":"home/project/cardiac.png",
             "projectDescription":"This research focuses on analyzing cardiac MRI and diffusion tensor imaging (DTI) to better understand myocardial tissue characteristics and pathological changes associated with cardiovascular diseases. By extracting spatial and temporal patterns from MRI data, the study aims to assess cardiac structure and function in detail, including ventricular volume, myocardial thickness, and contractility. DTI is further utilized to identify novel imaging biomarkers that reflect microstructural integrity and are potentially sensitive to disease progression. Building on these imaging-derived features, the research seeks to develop a model that generates clinical charts predicting a patient's health status and prognosis. This chart integrates information on cardiac tissue condition and pathological alterations, providing an interpretable, visual summary to support clinical decision-making and longitudinal patient monitoring.",
             "projectDetail": [
+                {
+                    "type":"conference",
+                    "title": "Automated Framework for Cardiac MRI Segmentation and Disease Diagnosis",
+                    "detail": "Min Su Kim, Hong Bin Jung, Hye Won Lee, Ji Won Lee, Giltae Song, Jin Kyu Gahm. 21st IEEE International Symposium on Biomedical Imaging (ISBI 2024), Greece, 2024",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                },
+                {
+                    "type":"conference",
+                    "title": " Improving Multi-Domain Cardiac MRI Segmentation with Domain Generalization Techniques in nnU-Net",
+                    "detail": "Hong Bin Jung, Min Su Kim, Jin Kyu Gahm. Korean Institute of Information Scientists and Engineers, 2024",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                }
             ]
         }, {
             "projectTitle":"비정형 파킨슨병 분류를 위한 하이퍼볼릭 퓨샷 대조 학습",
             "projectImagePath":"home/project/parkinson.png",
             "projectDescription":"This research presents a novel hyperbolic few-shot contrastive learning framework designed to effectively differentiate between subtypes of atypical Parkinsonian syndromes (APS), such as multiple system atrophy (MSA) and progressive supranuclear palsy (PSP). Recognizing the scarcity of large, well-labeled datasets in rare neurological disorders, this study adopts a few-shot learning paradigm that requires only a small number of labeled examples to achieve strong classification performance. The use of a hyperbolic embedding space, which is particularly well-suited for capturing hierarchical structures in clinical data, contributes to producing more stable and generalizable results. By mapping patient-level radiomic features—derived from structural MRI modalities like T1-weighted and susceptibility-weighted imaging—into this space, the model preserves latent relationships between patients and enhances the semantic separation.",
             "projectDetail": [
+                {
+                    "type":"conference",
+                    "title": "Few-shot Learning Approach for Differentiation of Atypical Parkinsonian Syndromes Using Susceptibility Weighted Imaging",
+                    "detail": "Won June Choi, Jin HwangBo, Duong Anh Quan, Jae-Hyeok Lee, Jin Kyu Gahm. 2024 ISMRM & ISMRT Annual Meeting, Singapore (**Oral presentation), 2024",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                },
+                {
+                    "type":"journal",
+                    "title": "Differentiating atypical parkinsonian syndromes with hyperbolic few-shot contrastive learning",
+                    "detail": "Won June Choi, Jin HwangBo, Duong Anh Quan, Jae-Hyeok Lee, Jin Kyu Gahm. NeuroImage, Vol. 304, 120940, 2024",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":"linkinghub.elsevier.com/retrieve/pii/S1053811924004373"
+                        },{
+                            "text":"preprint",
+                            "href":"https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S1053811924004373?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1053811924004373%3Fshowall%3Dtrue&referrer="
+                        }
+                    ]
+                },
+                {
+                    "type":"conference",
+                    "title": "Interpretable Deep Learning for SPECT-Based Parkinson’s Disease Diagnosis via Continuous Concept Modeling",
+                    "detail": "Il Hae Yu, Jun Hee Kim, Jin Kyu Gahm. 2025 한국인공지능학회 하계학술대회, 2025",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                },
+                {
+                    "type":"conference",
+                    "title": "Enhancing Deep Gray Matter Contrast in Atypical Parkinsonism via SWI-Aware Fusion",
+                    "detail": "YoungHoon Lim, Jae Hyeok Lee, Jin Kyu Gahm. The IEEE International Symposium on Biomedical Imaging (ISBI) 26, 2026",
+                    "Link": [
+                        {
+                            "text":"link",
+                            "href":""
+                        },{
+                            "text":"preprint",
+                            "href":""
+                        }
+                    ]
+                }
             ]
         }
     ]
