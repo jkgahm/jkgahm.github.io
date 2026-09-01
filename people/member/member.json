@@ -52,6 +52,16 @@
                 }
             ]
         },{
+            "name":"Asraev Timur",
+            "imagePath":"people/member/Timur.png",
+            "position":"M.S. student",
+            "email":"tim@pusan.ac.kr",
+            "research":[
+                {
+                    "area":"Multimodal AI & Medical Imaging & Predictive Medicine"
+                }
+            ]
+        },{
             "name":"Hakjin Lee",
             "imagePath":"people/member/Hakjin_Lee.jpg",
             "position":"Integrated B.S./M.S. student",
