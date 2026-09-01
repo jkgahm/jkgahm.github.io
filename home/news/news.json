@@ -148,62 +148,52 @@
 
 "lineNews":[
         {
+            "date": "2026.09.01",
+            "title": "🤗 WELCOME",
+            "text": "Timur joined our lab as an M.S. student! Show us your best, Timur!"
+        },{
+            "date": "2026.08.21",
+            "title": "🎓 GRADUATION",
+            "text": "Hyejin has graduated with her B.S. degree. Congratulations! Time to fly high, Hyejin!"
+        },{
             "date": "2026.04.24",
             "title": "🤗 WELCOME",
-            "text": "Donghyun joined our lab as an undergraduate student!"
+            "text": "Donghyun joined our lab as an undergraduate student! Show us what you got, Donghyun!"
         },{
             "date": "2026.03.03",
             "title": "🤗 WELCOME",
-            "text": "WooHyun joined our lab as an M.S. student!"
+            "text": "WooHyun joined our lab as an M.S. student! Show us what you can do, WooHyun!"
         },{
             "date": "2026.02.20",
             "title": "🎓 GRADUATION",
-            "text": "Junhee and Ilhae have graduated from their M.S. program. Congratulations!"
+            "text": "Junhee and Ilhae have graduated from their M.S. program. Congratulations! Show the world your best, Junhee and Ilhae!"
         },{
             "date":"2025.09.10",
             "title":"🤗 WELCOME",
-            "text":"Hakjin joined our lab as an undergraduate student!"
+            "text":"Hakjin joined our lab as an undergraduate student! We know you can do it, Hakjin!"
         },
         {
             "date": "2025.08.22",
             "title": "🎓 GRADUATION",
-            "text": "Dat has graduated from his M.S. program. Congratulations!"
+            "text": "Dat has graduated from his M.S. program. Congratulations! The world is waiting for your great work, Dat!"
         },{
             "date": "2025.08.22",
             "title": "🎓 GRADUATION",
-            "text": "Yonghoon has graduated with a B.S. degree. Congratulations!"
+            "text": "Yonghoon has graduated with a B.S. degree. Congratulations! Space is waiting for your great work, Yonghoon!"
         },{
             "date": "2025.02.28",
             "title": "🎓 GRADUATION",
-            "text": "Hongbin and Heechang have graduated from their M.S. program. Congratulations!"
+            "text": "Hongbin and Heechang have graduated from their M.S. program. Congratulations! You are now ready to take on the world, Hongbin and Heechang!"
         },
         {
             "date": "2025.02.28",
             "title": "🎓 GRADUATION",
-            "text": "Emil has graduated with a B.S. degree. Congraturations!"
+            "text": "Emil has graduated with a B.S. degree. Congratulations! Make the world surprise with your great work, Emil!"
         },        
         {
             "date":"2025.01.10",
             "title":"🤗 WELCOME",
-            "text":"Yonghoon and Hyejin joined our lab as an undergraduate student!"
-        },
-        {
-            "date":"2024.08.30",
-            "title":"🎓 CONGRATURATION",
-            "text":"Minsu have graduated from his M.S. Congraturations!"
-        },{
-            "date":"2024.08.26",
-            "title":"🤗 WELCOME",
-            "text":"Emil joined our lab as an undergraduate student!"
-        },{
-            "date":"2024.08.16",
-            "title":"🎉 CONGRATURATION",
-            "text":"Dat, Ilhae, Heechang and Junhee won the Best Paper Award at 2024 KAIA!"
-        },{
-            "date":"2024.06.25",
-            "title":"🚀 OHBM SUBMISSION",
-            "text":"Dat successfully submitted a paper to the OHBM conference"
+            "text":"Yonghoon and Hyejin joined our lab as an undergraduate student! We know you are capable, Yonghoon and Hyejin!"
         }
-
     ]
 }
