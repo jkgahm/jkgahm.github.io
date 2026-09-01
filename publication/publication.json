@@ -1,6 +1,33 @@
 {
     "publications":[
         {
+            "type": "journal",
+            "title": "Multi-Scale EEG Feature Extraction with Attention Mechanism for Seizure Detection",
+            "authors": "Emil Kim, Yerassyl Kenes, Sy Dat Tran, Jin Kyu Gahm",
+            "link": "https://doi.org/10.5626/JOK.2026.53.6.497",
+            "pdf": "",
+            "academy": "Journal of KIISE",
+            "volueIssuePage": "Vol.53 No.6, 497 - 506",
+            "date": "2026"
+        },{
+            "type":"conference",
+            "title":"Self-Supervised Surface Mamba for Infant Brain Age Prediction", 
+            "authors":"Hye Jin Yoon, Emil Kim, Woo Hyun Kim, Jin Kyu Gahm",
+            "link":"https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12930037",
+            "pdf":"https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12930037&width=2560",
+            "academy":"한국정보과학회 2026 한국컴퓨터종합학술대회 (KCC 2026) (*학부생 부문 우수상 수상)",
+            "volueIssuePage":"2,487-2,489",
+            "date":"2026"
+        },{
+            "type":"conference",
+            "title":"MRI Image Fusion for Enhancing Deep Brain Contrast in Parkinsonian Patients", 
+            "authors":"YoungHoon Lim, Min Sung Lee, Jae Hyeok Lee, Jin Kyu Gahm",
+            "link":"https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929640",
+            "pdf":"https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12929640&width=2560",
+            "academy":"한국정보과학회 2026 한국컴퓨터종합학술대회 (KCC 2026)",
+            "volueIssuePage":"1,317-1,319",
+            "date":"2026"
+        },{
             "type":"conference",
             "title":"CGM-EEG: Cross-Gated Mamba for Spatio-Temporal EEG Representation Learning", 
             "authors":"Emil Kim, Jin Kyu Gahm",
@@ -39,8 +66,25 @@
             "academy":"The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 26",
             "volueIssuePage":"",
             "date":"2026"
-        },
-        {
+        },{
+            "type": "journal",
+            "title": "Development and Validation of a Diagnostic Model for Biliary Tract Cancer Detection in Patients with Benign Biliary Disease: A Multicenter, Retrospective Case-Control Study", 
+            "authors": "Hanul Park, Kibeom Kim, Jonghyun Lee, Sung Yong Han, Chang Min Cho, Dong Wook Lee, Jun Heo, Min Kyu Jung, Hyeong Seok Nam, Jin Kyu Gahm, Giltae Song, Dong Uk Kim",
+            "link": "https://europepmc.org/article/ppr/ppr1153960",
+            "pdf": "https://assets-eu.researchsquare.com/files/rs-8736730/v1/b3b3dc8e-669d-4499-9675-febaf2602258.pdf",
+            "academy": "Research Square (Preprint)",
+            "volueIssuePage": "",
+            "date": "2026"
+        },{
+            "type": "journal",
+            "title": "HSST-EEG: A Hybrid State-Space and Transformer Architecture for EEG Decoding", 
+            "authors": "Emil Kim, Jin Kyu Gahm",
+            "link": "",
+            "pdf": "",
+            "academy": "IEEE Access",
+            "volueIssuePage": "",
+            "date": "2026"
+        },{
             "type":"conference",
             "title":"HSST-EEG: A Hybrid State-Space and Transformer Architecture for EEG Decoding", 
             "authors":"Emil Kim, Jin Kyu Gahm",
@@ -52,12 +96,12 @@
         },
         {
             "type":"conference",
-            "title":"심장 cine MRI 단면 해상도 개선을 위한 종단면 가이드 디퓨전 모델 연구", 
+            "title":"Long-Axis Guided Diffusion Autoencoder for Through-Plane Super-Resolution of Cardiac cine MRI", 
             "authors":"Jun Hee Kim, Jin Kyu Gahm",
-            "link":"",
-            "pdf":"",
+            "link":"https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577886",
+            "pdf":"https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12577886&width=2560",
             "academy":"KSC2025",
-            "volueIssuePage":"",
+            "volueIssuePage":"627-629",
             "date":"2025"
         },
         {
