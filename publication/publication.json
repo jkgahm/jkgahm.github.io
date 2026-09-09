@@ -68,15 +68,6 @@
             "date":"2026"
         },{
             "type": "journal",
-            "title": "Development and Validation of a Diagnostic Model for Biliary Tract Cancer Detection in Patients with Benign Biliary Disease: A Multicenter, Retrospective Case-Control Study", 
-            "authors": "Hanul Park, Kibeom Kim, Jonghyun Lee, Sung Yong Han, Chang Min Cho, Dong Wook Lee, Jun Heo, Min Kyu Jung, Hyeong Seok Nam, Jin Kyu Gahm, Giltae Song, Dong Uk Kim",
-            "link": "https://europepmc.org/article/ppr/ppr1153960",
-            "pdf": "https://assets-eu.researchsquare.com/files/rs-8736730/v1/b3b3dc8e-669d-4499-9675-febaf2602258.pdf",
-            "academy": "Research Square (Preprint)",
-            "volueIssuePage": "",
-            "date": "2026"
-        },{
-            "type": "journal",
             "title": "HSST-EEG: A Hybrid State-Space and Transformer Architecture for EEG Decoding", 
             "authors": "Emil Kim, Jin Kyu Gahm",
             "link": "",
