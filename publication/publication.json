@@ -1,6 +1,25 @@
 {
     "publications":[
         {
+            "type":"conference",
+            "title":"MARBLE: Lightweight EEG-to-fMRI Translation via Mamba-Attention and ROI-Conditioned Decoding", 
+            "authors":"Emil Kim, Jin Kyu Gahm",
+            "link":"https://papers.miccai.org/miccai-2026/0612-Paper4437.html",
+            "pdf":"https://papers.miccai.org/miccai-2026/paper/4437_paper.pdf",
+            "academy":"Medical Image Computing and Computer-Assisted Intervention–MICCAI 2026",
+            "volueIssuePage":"",
+            "date":"2026"
+        },
+        {
+            "type":"conference",
+            "title":"Rethinking Sequence Modeling on Cortical Surfaces: Robustness, Spatial Ordering, and Resolution in Infant Brain Age Prediction", 
+            "authors":"Hye Jin Yoon, Jin Kyu Gahm",
+            "link":"https://papers.miccai.org/miccai-2026-sat/ShapeMI_040.html",
+            "pdf":"https://papers.miccai.org/miccai-2026-sat/paper/ShapeMI_040.pdf",
+            "academy":"Workshop on Shape in Medical Imaging at MICCAI 2026",
+            "volueIssuePage":"",
+            "date":"2026"
+        },{
             "type": "journal",
             "title": "Multi-Scale EEG Feature Extraction with Attention Mechanism for Seizure Detection",
             "authors": "Emil Kim, Yerassyl Kenes, Sy Dat Tran, Jin Kyu Gahm",
